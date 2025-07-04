@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\producttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\producttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\models\\simplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ProductTestData.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:41:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\IRepository.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\IRepository.cs",
@@ -91,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeControllerTests.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
               "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
               "RelativeToolTip": "WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T07:51:44.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Comparer.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\Comparer.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\Comparer.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductTests.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTests.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\ProductTests.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "third.js",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\third.js",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "second.css",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\second.css",
@@ -180,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "first.css",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\first.css",
@@ -192,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
@@ -205,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Controllers\\HomeController.cs",
@@ -218,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SimpleRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "fourth.js",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\Product.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Program.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Program.cs",
@@ -267,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "WorkingWithVisualStudio.csproj",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",

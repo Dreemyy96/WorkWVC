@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Moq;
 using WorkingWithVisualStudio.Controllers;
 using WorkingWithVisualStudio.Models;
 
@@ -21,11 +22,15 @@ namespace WorkingWithVisualStudio.Tests
         [ClassData(typeof(ProductTestData))]
         public void IndexActionModelIsComplete(Product[] products)
         {
-            var controller = new HomeController();
-            controller.Repository = new ModelCompleteFakeRepository() {Products = products};
+            //Arrange - организовывать
+            
+            var mock = new Mock<IRepository>();
+            mock.SetupGet(m=> m.Products).Returns(products);
+			var controller = new HomeController() { Repository = mock.Object };
 
-            var model = (controller.Index() as ViewResult)?.ViewData.Model as IEnumerable<Product>;
-
+			//Act - действие
+			var model = (controller.Index() as ViewResult)?.ViewData.Model as IEnumerable<Product>;
+            //Assert - утверждать
             Assert.Equal(controller.Repository.Products, model, Comparer.Get<Product>((p1, p2) => p1.Name == p2.Name && p1.Price == p2.Price));
         }
 
@@ -54,5 +59,35 @@ namespace WorkingWithVisualStudio.Tests
 
             Assert.Equal(controller.Repository.Products, model, Comparer.Get<Product>((p1, p2) => p1.Name == p2.Name && p1.Price == p2.Price));
         }
-    }
+
+		class PropertyOnceFakeRepository : IRepository
+		{
+            public int Counter { get; set; } = 0;
+            public IEnumerable<Product> Products
+            {
+                get
+                {
+                    Counter++;
+                    return new Product[] { new Product() { Name = "P1", Price = 100M } };
+                }
+            }
+
+			public void AddProducts(Product p)
+			{
+				throw new NotImplementedException();
+			}
+		}
+
+        [Fact]
+        public void RepositoryPropertyCalledOnce()
+        {
+            var mock = new Mock<IRepository>();
+            mock.SetupGet(m => m.Products).Returns(new[] { new Product() { Name = "P1", Price = 100M } });
+            var controller = new HomeController() { Repository = mock.Object };
+
+            var res = controller.Index();
+
+            mock.VerifyGet(m=>m.Products, Times.Once());
+        }
+	}
 }

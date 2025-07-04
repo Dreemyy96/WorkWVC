@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj": {}
+    "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj": {}
   },
   "projects": {
-    "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj": {
+    "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
         "projectName": "WorkingWithVisualStudio.Tests",
-        "projectPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
+        "projectPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj",
         "packagesPath": "C:\\Users\\koval\\.nuget\\packages\\",
-        "outputPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\obj\\",
+        "outputPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\koval\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
-                "projectPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj"
+              "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+                "projectPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj"
               }
             }
           }
@@ -47,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -57,6 +52,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -87,25 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+    "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectUniqueName": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "projectName": "WorkingWithVisualStudio",
-        "projectPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
         "packagesPath": "C:\\Users\\koval\\.nuget\\packages\\",
-        "outputPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\obj\\",
+        "outputPath": "C:\\Users\\koval\\OneDrive\\Рабочий стол\\WorkMVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\koval\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,8 +125,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -155,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
