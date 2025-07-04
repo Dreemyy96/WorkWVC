@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\",
+  "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\users\\koval\\source\\repos\\languagefeatures\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|c:\\teachprojects\\workwvc\\languagefeatures\\languagefeatures\\models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B38ADB3-7B99-4B2D-BA91-462C5C32937D}|LanguageFeatures\\LanguageFeatures.csproj|solutionrelative:languagefeatures\\models\\myasyncmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,19 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MyAsyncMethods.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Models\\MyAsyncMethods.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\MyAsyncMethods.cs",
               "RelativeToolTip": "LanguageFeatures\\Models\\MyAsyncMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,24 +55,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MyExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
               "RelativeToolTip": "LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T09:38:25.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\ShoppingCart.cs",
               "RelativeToolTip": "LanguageFeatures\\Models\\ShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,11 +81,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LanguageFeatures\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "LanguageFeatures\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -98,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LanguageFeatures\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\Products.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\Products.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Models\\Products.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Models\\Products.cs",
               "RelativeToolTip": "LanguageFeatures\\Models\\Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Program.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Program.cs",
               "RelativeDocumentMoniker": "LanguageFeatures\\Program.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\LanguageFeatures\\LanguageFeatures\\Program.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\LanguageFeatures\\LanguageFeatures\\Program.cs",
               "RelativeToolTip": "LanguageFeatures\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

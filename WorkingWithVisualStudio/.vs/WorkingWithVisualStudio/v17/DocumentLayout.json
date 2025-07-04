@@ -1,45 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\",
+  "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\producttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\producttestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\js\\fourth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\js\\fourth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\js\\third.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\js\\third.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\css\\second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\css\\second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\css\\first.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\css\\first.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\models\\simplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\models\\simplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\models\\simplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6ACBC-A0F5-45F5-A0A3-9D96944AAE61}|WorkingWithVisualStudio.Tests\\WorkingWithVisualStudio.Tests.csproj|solutionrelative:workingwithvisualstudio.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\users\\koval\\source\\repos\\workingwithvisualstudio\\workingwithvisualstudio\\workingwithvisualstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\js\\fourth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\js\\fourth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\js\\third.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\js\\third.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\css\\second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\css\\second.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\wwwroot\\css\\first.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\wwwroot\\css\\first.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|c:\\teachprojects\\workwvc\\workingwithvisualstudio\\workingwithvisualstudio\\workingwithvisualstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BC47EBCD-3860-4A69-B41F-82C75B5E97EA}|WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj|solutionrelative:workingwithvisualstudio\\workingwithvisualstudio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -50,141 +78,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fourth.js",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
-              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
-              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-03T14:26:33.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "third.js",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
-              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\third.js",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
-              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\js\\third.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-03T14:24:47.42Z",
+              "DocumentIndex": 1,
+              "Title": "ProductTestData.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio.Tests\\ProductTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:41:38.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "second.css",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
-              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\second.css",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
-              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\css\\second.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-03T14:23:23.369Z",
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\IRepository.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\IRepository.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:04:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:51:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\Comparer.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\Comparer.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\Comparer.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio.Tests\\Comparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:32:15.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "first.css",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
-              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\first.css",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
-              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\css\\first.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-03T14:22:24.044Z",
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio.Tests\\ProductTests.cs",
+              "RelativeToolTip": "WorkingWithVisualStudio.Tests\\ProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:58:45.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
+              "RelativeToolTip": "WorkingWithVisualStudio\\Views\\Home\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:19:02.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WorkingWithVisualStudio\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:12:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "third.js",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\third.js",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\third.js",
+              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\js\\third.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-03T14:24:47.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "second.css",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\second.css",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\second.css",
+              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\css\\second.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-03T14:23:23.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "first.css",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\css\\first.css",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\css\\first.css",
+              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\css\\first.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-03T14:22:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WorkingWithVisualStudio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-03T13:28:10.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WorkingWithVisualStudio\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T13:25:46.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SimpleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
               "RelativeToolTip": "WorkingWithVisualStudio\\Models\\SimpleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T13:13:34.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "fourth.js",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
+              "RelativeDocumentMoniker": "WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
+              "RelativeToolTip": "WorkingWithVisualStudio\\wwwroot\\js\\fourth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-03T14:26:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\Product.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Models\\Product.cs",
               "RelativeToolTip": "WorkingWithVisualStudio\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:11:27.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-07-03T13:11:27.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Program.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Program.cs",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\Program.cs",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Program.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\Program.cs",
               "RelativeToolTip": "WorkingWithVisualStudio\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:09:33.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:09:33.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WorkingWithVisualStudio",
-              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+              "DocumentIndex": 16,
+              "Title": "WorkingWithVisualStudio.csproj",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
               "RelativeDocumentMoniker": "WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
-              "ToolTip": "C:\\Users\\koval\\source\\repos\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
               "RelativeToolTip": "WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-03T13:10:55.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:10:55.956Z"
             }
           ]
         }

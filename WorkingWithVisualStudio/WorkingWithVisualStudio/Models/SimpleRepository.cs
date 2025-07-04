@@ -1,6 +1,6 @@
 ﻿namespace WorkingWithVisualStudio.Models
 {
-	public class SimpleRepository
+	public class SimpleRepository : IRepository
 	{
 		private static SimpleRepository _sharedRepository = new();
 		private Dictionary<string, Product> products = new Dictionary<string, Product>();
@@ -20,8 +20,9 @@
 			{
 				AddProducts(item);
 			}
+			products.Add("Error", null);
 		}
 		public IEnumerable<Product> Products => products.Values;
 		public void AddProducts(Product p) => products.Add(p.Name, p);
-	}
+    }
 }
