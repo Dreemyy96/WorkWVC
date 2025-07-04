@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koval\\source\\repos\\Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\views\\shared\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\views\\shared\\_basiclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|c:\\users\\koval\\source\\repos\\razor\\razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F134A-ED63-4818-ABE1-BEB336ABAB6C}|Razor\\Razor.csproj|solutionrelative:razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Razor\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Razor\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T12:20:09.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_BasicLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\Shared\\_BasicLayout.cshtml",
+              "RelativeDocumentMoniker": "Razor\\Views\\Shared\\_BasicLayout.cshtml",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\Shared\\_BasicLayout.cshtml",
+              "RelativeToolTip": "Razor\\Views\\Shared\\_BasicLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T12:03:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Razor\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Razor\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T11:57:08.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Razor\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Razor\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T11:46:46.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Razor\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Razor\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:41:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Razor\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Models\\Product.cs",
+              "RelativeToolTip": "Razor\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:38:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Program.cs",
+              "RelativeDocumentMoniker": "Razor\\Program.cs",
+              "ToolTip": "C:\\Users\\koval\\source\\repos\\Razor\\Razor\\Program.cs",
+              "RelativeToolTip": "Razor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:35:58.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

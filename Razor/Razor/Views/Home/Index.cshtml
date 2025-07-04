@@ -1,0 +1,7 @@
+﻿@model Product
+@{
+	ViewBag.Title = "Product Name";
+}
+
+<p>Product Name: @Model.Name</p>
+<p>Product Price: @($"{Model.Price:c2}")</p>
