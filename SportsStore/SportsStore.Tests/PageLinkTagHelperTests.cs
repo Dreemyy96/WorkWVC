@@ -4,12 +4,6 @@ using Microsoft.AspNetCore.Razor.TagHelpers;
 using Moq;
 using SportsStore.Infrastructure;
 using SportsStore.Models.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace SportsStore.Tests
 {
 	public class PageLinkTagHelperTests
@@ -25,8 +19,8 @@ namespace SportsStore.Tests
 			.Returns("Test/Page3");
 			var urlHelperFactory = new Mock<IUrlHelperFactory>();
 			urlHelperFactory.Setup(f =>
-			f.GetUrlHelper(It.IsAny<ActionContext>()))
-			.Returns(urlHelper.Object);
+				f.GetUrlHelper(It.IsAny<ActionContext>()))
+				.Returns(urlHelper.Object);
 			PageLinkTagHelper helper =
 			new PageLinkTagHelper(urlHelperFactory.Object)
 			{
