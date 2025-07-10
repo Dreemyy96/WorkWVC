@@ -1,10 +1,15 @@
 using SportsStore.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Host.UseDefaultServiceProvider(options => options.ValidateScopes = false);
 
 builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(builder.Configuration["Data:SportsStoreProducts:ConnectionString"]));
+builder.Services.AddDbContext<AppIdentityDbContext>(option => option.UseSqlServer(builder.Configuration["Data:SportsStoreIdentity:ConnectionString"]));
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+	.AddEntityFrameworkStores<AppIdentityDbContext>().AddDefaultTokenProviders();
 
 builder.Services.AddMvc(option=>option.EnableEndpointRouting = false);
 builder.Services.AddTransient<IProductRepository, EFProductRepository>();
@@ -26,6 +31,7 @@ app.UseDeveloperExceptionPage();
 app.UseSession();
 app.UseStatusCodePages();
 app.UseStaticFiles();
+app.UseAuthentication();
 
 app.UseMvc(routes => {
 	routes.MapRoute(
@@ -52,4 +58,5 @@ app.UseMvc(routes => {
 	
 });
 SeedData.EnsurePopulated(app);
+IdentitySeedData.EnsurePopulated(app);
 app.Run();

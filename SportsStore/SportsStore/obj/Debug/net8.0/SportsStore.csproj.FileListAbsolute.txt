@@ -342,3 +342,8 @@ C:\TeachProjects\WorkWVC\SportsStore\SportsStore\obj\Debug\net8.0\refint\SportsS
 C:\TeachProjects\WorkWVC\SportsStore\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\TeachProjects\WorkWVC\SportsStore\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\TeachProjects\WorkWVC\SportsStore\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
+C:\TeachProjects\WorkWVC\SportsStore\SportsStore\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\TeachProjects\WorkWVC\SportsStore\SportsStore\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\TeachProjects\WorkWVC\SportsStore\SportsStore\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\TeachProjects\WorkWVC\SportsStore\SportsStore\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\TeachProjects\WorkWVC\SportsStore\SportsStore\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
