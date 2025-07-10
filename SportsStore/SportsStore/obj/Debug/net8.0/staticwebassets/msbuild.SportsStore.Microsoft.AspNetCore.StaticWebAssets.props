@@ -1,5 +1,779 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/all.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3mu0h9tx89</Fingerprint>
+      <Integrity>BeAEqRJf9tXUiCopNt6Z54FwAnFDIsc1lkHAC2b3gcg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/all.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cmhhdwqdyz</Fingerprint>
+      <Integrity>dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\all.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/brands.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5zybp921qk</Fingerprint>
+      <Integrity>0WLPyWhlVsMr0y6p23SiS1sqoxfEnyzvYNidpVWyTg4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/brands.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>eict21by8z</Fingerprint>
+      <Integrity>lvqQzfgRxG8QBB5QMqpZGrljg5T/hNmC3vC7i3zntlI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\brands.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/fontawesome.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rvhlnuwl0w</Fingerprint>
+      <Integrity>xzwplE3L1jIuT1LPT8cqOTx6SkrmzSwKyoqZAv4nOQM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/fontawesome.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8tr2uchqr5</Fingerprint>
+      <Integrity>TBe0l9PhFaVR3DwHmA2jQbUf1y6yQ22RBgJKKkNkC50=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\fontawesome.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/regular.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oyhlwpn2ry</Fingerprint>
+      <Integrity>0J34ehpSqh/K3f1J48+c4qqMoq/vHT3yNzKHZlxn6M8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/regular.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>37l46l7i6j</Fingerprint>
+      <Integrity>sZHne9tv897qh/YThum0hlecR/wR8ToEkXIYoPRAYeU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\regular.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/solid.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9ozp8y9mwk</Fingerprint>
+      <Integrity>2WC6x551KwAQLGp8YJ72FcOK0t8ShiTxKMlS3B1nCxw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/solid.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>33kherj0x8</Fingerprint>
+      <Integrity>ETbOOM9U8WfaXg2AkW2t+QbdpWYFRAO+HEXOth8EQbY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\solid.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/svg-with-js.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xw9ktltpoq</Fingerprint>
+      <Integrity>MTDeqkiCIS8hxz7ilEyqtdwwNmw9YNYbAKaFJSi9SYY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/svg-with-js.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vv23opoj39</Fingerprint>
+      <Integrity>pXJNErqquJelSNmS/2PGOZlOaI3p3TaELxMemk5wzeU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\svg-with-js.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v4-font-face.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>utrc60xe8f</Fingerprint>
+      <Integrity>HpJQStRnkovrrWNGCph2oLrev9fZjQ1XG+ORTe2r55Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v4-font-face.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m5ioe6x05t</Fingerprint>
+      <Integrity>FtjNk9F04RHH2p0imrheuJnTOX1cMFMttJ3fizpOgLs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-font-face.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v4-shims.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ogfnvmm9u4</Fingerprint>
+      <Integrity>+BohpHns0sTerX1N7rWQK5LrfsNWZj39LJmHOXY/KmY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v4-shims.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>msy1qwdlar</Fingerprint>
+      <Integrity>ZlClDYWRJZQA7TVrQk/0/mM7wNH8e+WOF8ePuxMSpwc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v4-shims.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v5-font-face.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wygj0g0egz</Fingerprint>
+      <Integrity>qJyrijwOVu03iBaRWXRhEy6xAf5JWQryZyJ+0CpGKPk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/css/v5-font-face.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qnll27bpxk</Fingerprint>
+      <Integrity>5g5YPOce+V0J+IFtFDH/6fs2TwKfVY2vf3rPeFpYGOc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\css\v5-font-face.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/all.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vppv4xf58g</Fingerprint>
+      <Integrity>DZSytUnV5jOb3FvsoH0hQ9JROx+YiRd+L1RsQwiQR28=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/all.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wbpfeoezp3</Fingerprint>
+      <Integrity>BAR0H3Qu2PCfoVr6CtZrcnbK3VKenmUF9C6IqgsNsNU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\all.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/brands.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ytu0mno2ng</Fingerprint>
+      <Integrity>Fi7Wi6g+dwwCG3zxAkSk3VwUv3oMPb+LAVfd8kuxFdY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/brands.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wuwc8kk5a5</Fingerprint>
+      <Integrity>WIl9rBz8pZUU69KZLwmsxnJR2A0V3Xz6n8whxH1tKYA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\brands.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/conflict-detection.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a2ww84rxre</Fingerprint>
+      <Integrity>rg2xy7pLniWNtAGWHWVnEzRnrBjec69mCf9eMeVwT/E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/conflict-detection.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>parinopxbm</Fingerprint>
+      <Integrity>T/6TIJDCxxbYchJfH0dK7odofG0AdKfvC5RJtncgJIA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\conflict-detection.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/fontawesome.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r2l44wjr8p</Fingerprint>
+      <Integrity>Tcj2tSfIsg30lKUqAIO5pAgp9kjfMoGQVpGccpluKfQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/fontawesome.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9b4bpgjbx0</Fingerprint>
+      <Integrity>ayzx2znbpzG5nQ0bAkbeyDoc9IBzNudRe4OAevLf1hU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\fontawesome.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/regular.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m56mxgorfm</Fingerprint>
+      <Integrity>VvY2tPTQnqbgP/d+6lg8WJOgUeZvHTEFcDNVkpLD1VU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/regular.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iclhr71gek</Fingerprint>
+      <Integrity>Ug38TqIkk9AhgC5ikVh9zfP3m9vyPVEyQMOHHrD3Tzg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\regular.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/solid.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5q5v2m71js</Fingerprint>
+      <Integrity>vTjuF09NINxyfXxgVvDBq7+2cEsheMKFjH/7UZChrb4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/solid.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>n9b8won2d5</Fingerprint>
+      <Integrity>9aROWhb5kGXN7AsbsRB1r8QvxwgRf1+Nz13bssxuKd8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\solid.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/v4-shims.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e9652imd4e</Fingerprint>
+      <Integrity>8hgHeeBCf5IsiRkmyprAeoJelfPfLTKgC8dLgUj2tdg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/js/v4-shims.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1il7se3zg6</Fingerprint>
+      <Integrity>mewPC+3nMOMWUGtf3oYde3Vd/yCoBVRCOF9cEJ1xETU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\js\v4-shims.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/sprites/brands.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4abcade5u8</Fingerprint>
+      <Integrity>HIKr0SzvKchquBkhgC+BkFqRyhq98P8A84qYEc3ZLXk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\brands.svg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/sprites/regular.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>huwngg65ec</Fingerprint>
+      <Integrity>9wm7uvrFdLTNiKOXt7x+aCp9Ot8CQ5b7UAWl/fO6W88=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\regular.svg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/sprites/solid.svg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>22n2g2hpag</Fingerprint>
+      <Integrity>OomfC+VCcdkpmkWSTwaWqzRO/5XfkVt4DoVN0sGt70s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\sprites\solid.svg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-brands-400.ttf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kr6peqau0t</Fingerprint>
+      <Integrity>gIRDrmyCBDla3YVD2oqQpguTdvsPh+2OjqN9EJWW2AU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.ttf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-brands-400.woff2</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rfefp540hj</Fingerprint>
+      <Integrity>1yNqGb8jy7ICcoDo9R3JnWxFl2ou1g3nM4KwNLGKK2g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-brands-400.woff2'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-regular-400.ttf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8hwpw88keo</Fingerprint>
+      <Integrity>VM9ghve7IfnQcq1JShm0aB+lFt0KFM7lLaAdNlGpE6M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.ttf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-regular-400.woff2</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3s7ez9m4mu</Fingerprint>
+      <Integrity>40VtEoO511M3p3Pf0Ue/kI/QLAG0v0hXbYYDppsTy+U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-regular-400.woff2'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-solid-900.ttf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>alr6ukxakq</Fingerprint>
+      <Integrity>0vBZNUCw4zum3iVaVPJy1GbjEUSAaVa+qM/b9+3/yb0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.ttf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-solid-900.woff2</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2i6n11vb93</Fingerprint>
+      <Integrity>qnWZhiOjkeYcaQF5Ss6DLj7N0oi1bWCPIb6gQRrMC44=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-solid-900.woff2'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-v4compatibility.ttf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wontxidjva</Fingerprint>
+      <Integrity>MPar9rqkJYJYKHk9bfrR+2N2XQ5auqevb+r7m/zs5aA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.ttf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SportsStore</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SportsStore</BasePath>
+      <RelativePath>lib/font-awesome/webfonts/fa-v4compatibility.woff2</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kizxfigrer</Fingerprint>
+      <Integrity>DOkDPGnccU9fRe+b8X1V5MRrzfrWeZpOkrOOd4G/hr0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\font-awesome\webfonts\fa-v4compatibility.woff2'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap.css'))">
       <SourceType>Package</SourceType>
       <SourceId>SportsStore</SourceId>
@@ -12,8 +786,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mbs2as6gjk</Fingerprint>
-      <Integrity>4pUtUWm5scFnZoKGRbB3zztNqQFgdygzvYaYPQoiQWE=</Integrity>
+      <Fingerprint>t01kyuglfx</Fingerprint>
+      <Integrity>0+OrIbuBPR3HGBpows26fnWeZDEmkNIQOA3m+LUDsuc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap.css'))</OriginalItemSpec>
@@ -30,8 +804,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h01kjfhcbk</Fingerprint>
-      <Integrity>3x5Fgdv3nDOxrJrCBeKeW/S5hnYId90duj2fYPiovlU=</Integrity>
+      <Fingerprint>nclwyi8366</Fingerprint>
+      <Integrity>6aHQppfEko/srtbO3ubCBn9bCz25XtsZoZB8XwnYz34=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-grid.css'))</OriginalItemSpec>
@@ -66,8 +840,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n3fzbykr3m</Fingerprint>
-      <Integrity>zRWapLPIMobgczuXOwpxO+Zbq9eu8F+MG6VSwrQVcSc=</Integrity>
+      <Fingerprint>a6wz4zl1d0</Fingerprint>
+      <Integrity>og1MNJxsupki6LpVXZo+rC95f4QLF16m1YUpHn8vtyM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-grid.min.css'))</OriginalItemSpec>
@@ -102,8 +876,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d1sg4hija5</Fingerprint>
-      <Integrity>D8Ysty1KIHuxojj0l548BJf6InP6G8QyuClWQDhbfac=</Integrity>
+      <Fingerprint>zpf6r7iu2p</Fingerprint>
+      <Integrity>F6wTAruMGkJF9VRzPNq55rxR7N4yhnUKcQhxjmrsGRg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-grid.rtl.css'))</OriginalItemSpec>
@@ -138,8 +912,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jdc21zv74v</Fingerprint>
-      <Integrity>J2i238uZCfgTXwKYng3zP6ovuGoqlmKCt/73dugBNwU=</Integrity>
+      <Fingerprint>ds340y6aci</Fingerprint>
+      <Integrity>02smAS4nas/okRY9J2IiVqi15Zdws9MuuybRJtf/xQo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-grid.rtl.min.css'))</OriginalItemSpec>
@@ -174,8 +948,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yngwh2s2zd</Fingerprint>
-      <Integrity>oqom+LGZ25TC0OWZulZjdVdXFm5vxPzpRgZ08LYSQNg=</Integrity>
+      <Fingerprint>m4zwc30cs6</Fingerprint>
+      <Integrity>Kg4miiK9t9v3vyB/LZUmz9a92vBlZxc1rZZfKyDO0wQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-reboot.css'))</OriginalItemSpec>
@@ -210,8 +984,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qknr9wkoqa</Fingerprint>
-      <Integrity>Ghl0QDXkAXxYfGeRf52Vu0LCulBrSFsXHhdHT87Qx/M=</Integrity>
+      <Fingerprint>z4ulzpprs1</Fingerprint>
+      <Integrity>LR3cTZvDtka+FVVZFNhKksjFFc9s5eeQJtL7d+kM8Cg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-reboot.min.css'))</OriginalItemSpec>
@@ -246,8 +1020,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c1zx1plghp</Fingerprint>
-      <Integrity>YNt+VCZ+HduHbDpv18eKtD3BEFw5LWtmYbukhVOJNkI=</Integrity>
+      <Fingerprint>55zgwnarf3</Fingerprint>
+      <Integrity>6VG3XVVVKowjrEBJbrhT393Yicq2mWYUQnROOXzjOJc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.css'))</OriginalItemSpec>
@@ -282,8 +1056,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ymo5tibhew</Fingerprint>
-      <Integrity>+sDQ5WVy+pAor4I0FX1D6Nv3TC8VB8z5PHGEcsbx79Q=</Integrity>
+      <Fingerprint>9j04k7ff8o</Fingerprint>
+      <Integrity>S2SiHKfwy3m9UatggjsRctCHEnrAMyi5TJfIz4rOtM4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.min.css'))</OriginalItemSpec>
@@ -318,8 +1092,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hq4hmjmsua</Fingerprint>
-      <Integrity>x2slP9QpWK+Ufr7lTX0E4rR3xV5j2NN1RmonCDnFDqY=</Integrity>
+      <Fingerprint>r71srw9373</Fingerprint>
+      <Integrity>J8DRiUSeWCoJ5KZv3oLznNnguNXxlT91gRfqx4OhLVM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-utilities.css'))</OriginalItemSpec>
@@ -354,8 +1128,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f3374r7li6</Fingerprint>
-      <Integrity>lXRmeJdBkevNTeWGNESi8D0fmpjxpyZS3exUo329Wdc=</Integrity>
+      <Fingerprint>sumeqeat2b</Fingerprint>
+      <Integrity>zGK05vwcKWLkLZy/2uHeZiDb8n4lNbBhnxIBWgCGlho=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-utilities.min.css'))</OriginalItemSpec>
@@ -390,8 +1164,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>33ixni8ywj</Fingerprint>
-      <Integrity>z9jNAFrTJDdm5SQDIphAXhUHtH7WPMM2aKb71qBN0II=</Integrity>
+      <Fingerprint>jwbupvf1cn</Fingerprint>
+      <Integrity>PaOXwBVjo0LFfThqwemMb2vZPdpJyTJr2wUpY2rlPgA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.css'))</OriginalItemSpec>
@@ -426,8 +1200,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j4g787vn4b</Fingerprint>
-      <Integrity>Y4HnjAJPv2xISY/C1DFgs/izPoVl/lgwHMtLvAm15R0=</Integrity>
+      <Fingerprint>gyzl34zark</Fingerprint>
+      <Integrity>uDMgsoOuJTmS+BX8zHV6BRYFknx6qQ0Iwalq0l/Wnwc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.min.css'))</OriginalItemSpec>
@@ -480,8 +1254,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sc4v1k7spa</Fingerprint>
-      <Integrity>zAiOMPJUsgwNzuuJaS/bm+wOgzLXSUIzJZLHhRTfPfA=</Integrity>
+      <Fingerprint>7z09619q9j</Fingerprint>
+      <Integrity>zRgmWB5PK4CvTx4FiXsxbHaYRBBjz/rvu97sOC7kzXI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap.min.css'))</OriginalItemSpec>
@@ -516,8 +1290,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rci5ckuhgh</Fingerprint>
-      <Integrity>1Zf5kem9LvzdxnTuRQGvjcjG5/PBlWarbP3v7lySaJo=</Integrity>
+      <Fingerprint>ajzo1u5v8g</Fingerprint>
+      <Integrity>Gk1oGfOLBLvjrSivQbGbLbVFDYLqIBwry7+HKKrwq08=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap.rtl.css'))</OriginalItemSpec>
@@ -552,8 +1326,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4fjti1tjot</Fingerprint>
-      <Integrity>cHLDmCzdqTK/F68GsBWEAEvzlAOyW6P9jxWW2h8G+BA=</Integrity>
+      <Fingerprint>sdlhrk323x</Fingerprint>
+      <Integrity>gP5J22JsVu+X8rzMEh1Kx+lD89HF3DW4YUWPiU9udUc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\css\bootstrap.rtl.min.css'))</OriginalItemSpec>
@@ -588,8 +1362,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>u0sxvmjd22</Fingerprint>
-      <Integrity>4uxBGlBlpZ7nm4dPk3QRTnIVTJznbhNwypjdE6x2PWU=</Integrity>
+      <Fingerprint>mykkvd2hkm</Fingerprint>
+      <Integrity>4iVQR37Qe2Tuh7cjJQdKCANjnoR6UO6/cIu9hmy7hZA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.js'))</OriginalItemSpec>
@@ -606,8 +1380,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wo6u0ha302</Fingerprint>
-      <Integrity>oD6cCQK13oivCmCF8IedfXbaTaLxzS6b6EvfT6PYtos=</Integrity>
+      <Fingerprint>3631qojtq1</Fingerprint>
+      <Integrity>tQ9c3dc1t0j9EV2Itwqx1ZK0qjrLayj0+l/lSEgU5ZM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.bundle.js'))</OriginalItemSpec>
@@ -642,8 +1416,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i7egg6e3oe</Fingerprint>
-      <Integrity>7jOj9yxask5g0bFZ6b+OB+UhY8EIqO43R3ikqrBs4oI=</Integrity>
+      <Fingerprint>zyma9w1t4a</Fingerprint>
+      <Integrity>NfRUfZNkERrKSFA0c1a8VmCplPDYtpTYj5lQmKe1R/o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.bundle.min.js'))</OriginalItemSpec>
@@ -678,8 +1452,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>webmltaca9</Fingerprint>
-      <Integrity>SExue7mbG/NSknbJvhY4zOad0Cr3xtcfbBVTeRFKZlg=</Integrity>
+      <Fingerprint>9nx659ylgg</Fingerprint>
+      <Integrity>K8fPuP/Isv+p0f05Jbutp7bUudxGtciVRgDRN4aMa4c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.esm.js'))</OriginalItemSpec>
@@ -714,8 +1488,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5r5yws7kdw</Fingerprint>
-      <Integrity>Xy72NlN5nIXrRF75N6Yn2KybaJS7qwxyxX3bNPFmUCQ=</Integrity>
+      <Fingerprint>7ifmqzf51n</Fingerprint>
+      <Integrity>/+2UOLrBkJMGzFHiKQxcgGnK1mIA94yryJf56OFeNbk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.esm.min.js'))</OriginalItemSpec>
@@ -768,8 +1542,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>py8bfd5jne</Fingerprint>
-      <Integrity>3ypE4k8khLiuJ8ZvG/A8/qmkaBcWC+tq4Vvj2T2qV0A=</Integrity>
+      <Fingerprint>7183nd47gn</Fingerprint>
+      <Integrity>lel57Jim1/CW4I1iEkaHexK/J9h/ZRneeORKiQuNOIg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\js\bootstrap.min.js'))</OriginalItemSpec>
@@ -804,8 +1578,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c4kqvka62d</Fingerprint>
-      <Integrity>pKjLZTXCuLCovj2ZY18qEy+Qazlt06JOHebb/mbvVpo=</Integrity>
+      <Fingerprint>tknbknfq23</Fingerprint>
+      <Integrity>HQzgAuTMaY1xJYn7+erwKgaQKEUm1xyk14r+QXIEqw0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\bootstrap.scss'))</OriginalItemSpec>
@@ -822,8 +1596,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3m6392nv0</Fingerprint>
-      <Integrity>WjxWx625nNgcJt/5Q2x6Z5PIXhIyMJdky33zidW7KRQ=</Integrity>
+      <Fingerprint>2balvw08e3</Fingerprint>
+      <Integrity>biY6CG4V38ED7IR7PL02nLLZVywRhLBlO0/3vSt8CY4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\bootstrap-grid.scss'))</OriginalItemSpec>
@@ -840,8 +1614,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>15vde4il3x</Fingerprint>
-      <Integrity>5ZzszWbMHfNJObM7zVF6pGpLQaVDbNw05Wuv0W/shd4=</Integrity>
+      <Fingerprint>iryh1xwzvk</Fingerprint>
+      <Integrity>wrA2i86TcmmfIsLQ5zbhjlhJ8CjeaJ6I34GNhxUHWr4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\bootstrap-reboot.scss'))</OriginalItemSpec>
@@ -858,8 +1632,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7gus0bbi7r</Fingerprint>
-      <Integrity>J8WS8dnQ4D1LDPBk6FVVb6VLuX3WM/ecf5c0k6V3klY=</Integrity>
+      <Fingerprint>k8v8qxemzm</Fingerprint>
+      <Integrity>JC73V+mfcKh7xBm6/1ITL4JMirwR2k7cenqyxoKpebA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\bootstrap-utilities.scss'))</OriginalItemSpec>
@@ -876,8 +1650,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>orbuznqfkm</Fingerprint>
-      <Integrity>FLZETU5TIw1rYEcky6jSXLF7ySU7J/UmFCMXZltGXxc=</Integrity>
+      <Fingerprint>ob4n84ww36</Fingerprint>
+      <Integrity>XPICsxZUm7S5RxfCZzk3jTnwEPI9YyxytCG3oxZ9KtY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_floating-labels.scss'))</OriginalItemSpec>
@@ -894,8 +1668,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qrfv6l9kle</Fingerprint>
-      <Integrity>atTOzCOMO5Wv+sPEH7yKYWYUke3TWEoHIWbwVYOX1IE=</Integrity>
+      <Fingerprint>suzrmawbjv</Fingerprint>
+      <Integrity>ROwvTv8nBp8ZpsGtpdEjEMe7NmjpltLAHt1AGN/mWgE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_form-check.scss'))</OriginalItemSpec>
@@ -912,8 +1686,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d7ub5g9ed6</Fingerprint>
-      <Integrity>qeJWiLHb44ssUfy6z+b8ZOdL5CBEq/5/RQfvpkBLEkg=</Integrity>
+      <Fingerprint>sienays4zj</Fingerprint>
+      <Integrity>RHvoUat+ATpTEOGCEp4UsDjuOrR6v/Fpe9i1+p/8X+4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_form-control.scss'))</OriginalItemSpec>
@@ -930,8 +1704,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9p2af222iw</Fingerprint>
-      <Integrity>03z26wKY58mHnT4vu36NL8dsaIQ6Z7jNB+DU79nZoqE=</Integrity>
+      <Fingerprint>rezofww0zy</Fingerprint>
+      <Integrity>Q7hjmhgGmNsxncbqnOaHFVEFnrkOiWL8s5zqZlikP8s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_form-range.scss'))</OriginalItemSpec>
@@ -948,8 +1722,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7gsi4uvcz0</Fingerprint>
-      <Integrity>hwzEWjk81cJ5EEAmsZqQK/eo6IWhYnJKrMWASlPB2Q0=</Integrity>
+      <Fingerprint>0zbqtiy4n0</Fingerprint>
+      <Integrity>5FsWjrGcvg+Eqkka5UDweE5PKq2FV7scRRBzD+kDH50=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_form-select.scss'))</OriginalItemSpec>
@@ -966,8 +1740,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jmj4op7u5p</Fingerprint>
-      <Integrity>W0hSmtJ0UIYEQo24nkTKyUiiLEZLKa6wiJ/96QFBcu0=</Integrity>
+      <Fingerprint>q2udja0qo0</Fingerprint>
+      <Integrity>grSlvamURdoncKgbvVOCeI+27my4sLfej3sTVe/wLUs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_form-text.scss'))</OriginalItemSpec>
@@ -984,8 +1758,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j12xw4oyo7</Fingerprint>
-      <Integrity>lzg4solhX+4QDX0R5uYDgQq7H0TvHumKTmPxC/XnP+g=</Integrity>
+      <Fingerprint>e7g4aq7bet</Fingerprint>
+      <Integrity>Ck3wfA2stH0GsGA6Vnfxjjdj2pFhnknRHgiKtAIRQ6k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_input-group.scss'))</OriginalItemSpec>
@@ -1002,8 +1776,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x9gh4cdls4</Fingerprint>
-      <Integrity>pbBNVjkKsG97ZXE+w80q0rbISF4tokPXmodG880yrlM=</Integrity>
+      <Fingerprint>yfw5ch9ycf</Fingerprint>
+      <Integrity>gkwf1yD1SHOY/gerBRhhPw5HyJdNoyD5wNhmx/KEBlU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_labels.scss'))</OriginalItemSpec>
@@ -1020,8 +1794,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v73s7yz4vi</Fingerprint>
-      <Integrity>S14gaOzeyOBTJZEW1Or+Eh2mb62u0yOWYqZZUFS/xew=</Integrity>
+      <Fingerprint>2pp1ocxcl1</Fingerprint>
+      <Integrity>VhAdCAL4nORgaJoeKDuAczcRXMClilvsDOuMBj0XoGI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\forms\_validation.scss'))</OriginalItemSpec>
@@ -1038,8 +1812,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xm4yrwwiu0</Fingerprint>
-      <Integrity>+UYxtwTkfGhCLNQ5AidubhXVeBaJ4b62X0B4QZUn+og=</Integrity>
+      <Fingerprint>3f68498tuu</Fingerprint>
+      <Integrity>f9rnpdiJnEdEGfcsb4RS/uSQ2AlTZ4t7NK240OTnkKk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_clearfix.scss'))</OriginalItemSpec>
@@ -1056,8 +1830,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>paforxpzxg</Fingerprint>
-      <Integrity>jy2v1cr2zr2ERaO/ouHPFkIvjzLRr46FrHox0s6jxwY=</Integrity>
+      <Fingerprint>2wg5tubad9</Fingerprint>
+      <Integrity>wokfJy/atVdM257f3k5CdH5bL3FP2SgPpwnVp03dtS0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_color-bg.scss'))</OriginalItemSpec>
@@ -1074,8 +1848,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zxcctjyq9b</Fingerprint>
-      <Integrity>eSreuJZ6y9HzZjXnqTY3rLt75pN1jXE8DfG3fPXzJsY=</Integrity>
+      <Fingerprint>vogw3kwkdb</Fingerprint>
+      <Integrity>f89Q7CMMA/AkL2iXGB+5ylytdJVZjaD1RbqIkYzQq0o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_colored-links.scss'))</OriginalItemSpec>
@@ -1092,8 +1866,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hn7btdxkhs</Fingerprint>
-      <Integrity>fZz4jZW3XHRbmZ/evhAprNFRBNy9sgfzYwOyloU2W6c=</Integrity>
+      <Fingerprint>u4dih9o4ow</Fingerprint>
+      <Integrity>AvgERS982r2QVWNxoNz3ZmJNkpi3s9GswXjPZHNOfGk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_focus-ring.scss'))</OriginalItemSpec>
@@ -1110,8 +1884,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hre8om44cc</Fingerprint>
-      <Integrity>vWyoZRZVRYE61dtCz1HZbkB+H+pdk34C3DrfrWz4u8k=</Integrity>
+      <Fingerprint>y0d3p4fs36</Fingerprint>
+      <Integrity>TmKGFSaK7c2D96fx3djUaLt/4D1tVO7+1OL3BaJuTiI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_icon-link.scss'))</OriginalItemSpec>
@@ -1128,8 +1902,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jc6bwm59eg</Fingerprint>
-      <Integrity>47z/U0QeozIgQKINSCIosX0Ka38LPu8Zoe6DqAB4xJk=</Integrity>
+      <Fingerprint>e8uvrsvg1m</Fingerprint>
+      <Integrity>MnpbRRIzcFqhWsFQnqj0/5YJHc6auQc5tvyQLKw++yY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_position.scss'))</OriginalItemSpec>
@@ -1146,8 +1920,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uri2ohgb8r</Fingerprint>
-      <Integrity>dnigijK+aVeGZ6olj90AchdvchWgGOkV6oHb2RdGbmo=</Integrity>
+      <Fingerprint>fwwzrigxde</Fingerprint>
+      <Integrity>T1RpNjKZenlL1oB6PM/mqwHtPHbcDSFbEGwSdXwPp+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_ratio.scss'))</OriginalItemSpec>
@@ -1164,8 +1938,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>72xiqsthee</Fingerprint>
-      <Integrity>39HuJNiK7L5RliaXLveT2lS3Ft/wDNGPfA55h+dkWjw=</Integrity>
+      <Fingerprint>y3ejglp76p</Fingerprint>
+      <Integrity>LqLdiqjbxWIkyOanP1yauyenILg054keckWIejPobUA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_stacks.scss'))</OriginalItemSpec>
@@ -1182,8 +1956,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s9w9vwslps</Fingerprint>
-      <Integrity>oApgKK2+2GwoWogCS6K7GJZUe7ryjkVHYyY4AR+14lM=</Integrity>
+      <Fingerprint>usjae5bok8</Fingerprint>
+      <Integrity>vjSz6SCVaLcbC4MEYZnvO1WoEnfDX5k1Uq0jwGG2zyI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_stretched-link.scss'))</OriginalItemSpec>
@@ -1200,8 +1974,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9q7sodihns</Fingerprint>
-      <Integrity>3x2S9ExDjTCncNtWcN2LFWf9lpigbuvS4WaWJUP3Amk=</Integrity>
+      <Fingerprint>ev1tge8gzu</Fingerprint>
+      <Integrity>RskEeZ2bOGH7q42kJ5/5chXn1tVIBymwqTw23Q47Vzg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_text-truncation.scss'))</OriginalItemSpec>
@@ -1218,8 +1992,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ww4yopvgng</Fingerprint>
-      <Integrity>oKbIMq9bLQPhS+86kuL5CGarREA4gsGeJEnlRCt4/HI=</Integrity>
+      <Fingerprint>yv5uk7diy1</Fingerprint>
+      <Integrity>sib1VerR40KbmgTXBBZeIN3R8sg8DJWN4DaHZOZ/2Pg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_visually-hidden.scss'))</OriginalItemSpec>
@@ -1236,8 +2010,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jzxmwpdn53</Fingerprint>
-      <Integrity>cfZE1m2rwZ2jMmxwKYVQqQk3KRo7eqOAkx99okr0Cpw=</Integrity>
+      <Fingerprint>qd9v371mor</Fingerprint>
+      <Integrity>ws813teUzTHRlqnLe3j1PPcP9HbDHdVNK9QbYmUbFHU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\helpers\_vr.scss'))</OriginalItemSpec>
@@ -1254,8 +2028,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>exkiidz4e7</Fingerprint>
-      <Integrity>ju+Ybss0Fj7xC8IuLfLoeppLnvvM8Fg7RzCRpqSiTCE=</Integrity>
+      <Fingerprint>808nprdorg</Fingerprint>
+      <Integrity>uKLKCJw8XxfPXgIJoL+US783ANrP9dYDBISfyfLV/Vg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_alert.scss'))</OriginalItemSpec>
@@ -1272,8 +2046,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wmh9q5rvag</Fingerprint>
-      <Integrity>eEBPeclijk6nhwOXlKUn7g7S9Zc7z6YAOr9OMrzL41A=</Integrity>
+      <Fingerprint>10d5ermsw8</Fingerprint>
+      <Integrity>77SLrz+104PWUYDOLG/InVR8UJIomx75Emh1m1gs8/c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_backdrop.scss'))</OriginalItemSpec>
@@ -1290,8 +2064,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4i2wcut7n1</Fingerprint>
-      <Integrity>VNeibKdl81nxzJ2SyB3Ba616kwdtN3z4MAz24bHbG5U=</Integrity>
+      <Fingerprint>fuskxdssga</Fingerprint>
+      <Integrity>B6TDBeM4JfB3jTmIQBLXU5ziygXYzFiaBuzL4U8OKi8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_banner.scss'))</OriginalItemSpec>
@@ -1308,8 +2082,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3mi4kfe99e</Fingerprint>
-      <Integrity>O4eHfMq+iPZRBvWzNCWuBWwrypKxs486ooFMUZiHHbk=</Integrity>
+      <Fingerprint>xjld3kyvjq</Fingerprint>
+      <Integrity>XUHARliU19oMYbWdYoYl9U9Cjgih5cWIw+ry3wWporg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_border-radius.scss'))</OriginalItemSpec>
@@ -1326,8 +2100,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sd6ody6py1</Fingerprint>
-      <Integrity>UMt8BhUHt/47qJnxm/RK8xRVfQph9gd+7klaZ26yauQ=</Integrity>
+      <Fingerprint>i51kq3dx4d</Fingerprint>
+      <Integrity>KmcV63pTbordWo/w3RZbVuWNJu3HscfLTbxX4UL9Aho=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_box-shadow.scss'))</OriginalItemSpec>
@@ -1344,8 +2118,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>44reqvuzlw</Fingerprint>
-      <Integrity>PKllyCZhpDn79yy9E04Nwc8eGtyXMjV3yZ5eVASUU14=</Integrity>
+      <Fingerprint>7s71o7vrt2</Fingerprint>
+      <Integrity>pyELD81f9WhEsV8D9s5tDeOUCDwxhonoZ6Z05vGRRPo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_breakpoints.scss'))</OriginalItemSpec>
@@ -1362,8 +2136,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>welp27wlnn</Fingerprint>
-      <Integrity>qDbAn2FFN3x6MmJCt3oHKeoz7sJm28WwKVflpM7eppw=</Integrity>
+      <Fingerprint>pawy1vosdh</Fingerprint>
+      <Integrity>AdW1FULQcfszUz4Dl+wYGICVYE5zPNdRtKKid/WIUzs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_buttons.scss'))</OriginalItemSpec>
@@ -1380,8 +2154,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bf6zocz7iz</Fingerprint>
-      <Integrity>uTwP8iLYIQzP1GCHEk+MqE4O2oWnigqnXc3f0A0CfXU=</Integrity>
+      <Fingerprint>hn0mzc7fu0</Fingerprint>
+      <Integrity>M3Dio/W9LbK5d80PbPqYBLfaFsuE+OQuzD2uLzykk94=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_caret.scss'))</OriginalItemSpec>
@@ -1398,8 +2172,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lda2i7w605</Fingerprint>
-      <Integrity>Ce8UtK/wWv0zokoe6eagwFCxZ8SUIrH1P/SMWoNsQys=</Integrity>
+      <Fingerprint>l4cmnsvs52</Fingerprint>
+      <Integrity>G8IJ6Hf6AjicAyIXhNvJI7f4RHRDw4ao88I1w31NPtw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_clearfix.scss'))</OriginalItemSpec>
@@ -1416,8 +2190,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>08wks5nqbv</Fingerprint>
-      <Integrity>IKAl5kj4zDNSc9HrMUMuhzO5PqdzoLarkt4V1SphGXs=</Integrity>
+      <Fingerprint>urzalmuii6</Fingerprint>
+      <Integrity>moCKPj9BIh9jJ67Eilh3VAvrtYgkewaPQOAriXaMPIU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_color-mode.scss'))</OriginalItemSpec>
@@ -1434,8 +2208,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>exxm0gmry7</Fingerprint>
-      <Integrity>QrV0wLsv5CQsd62lHLyGxgLfPklQQj+8fAOMOI1Hw9U=</Integrity>
+      <Fingerprint>x7qus63z9u</Fingerprint>
+      <Integrity>PUQkIqq/GAkEs5pOBHwJmzks8Z5D8WY0g6wo6RUC1aU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_color-scheme.scss'))</OriginalItemSpec>
@@ -1452,8 +2226,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jgdbch0mwb</Fingerprint>
-      <Integrity>Hfe5Tm69W2/KDpupq34AJugO63sWO3maejT4WWqNQpM=</Integrity>
+      <Fingerprint>g1xwr9mhcq</Fingerprint>
+      <Integrity>RM48ulNATfViASqcQ3pEeR9oKOacCG/wSM8eQ+1X+Pg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_container.scss'))</OriginalItemSpec>
@@ -1470,8 +2244,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l88qp0vl5m</Fingerprint>
-      <Integrity>NZVOv1dTXwIhd3X4Hki59M/21gcbQf/xZtVNOqb+owE=</Integrity>
+      <Fingerprint>r396lgtddz</Fingerprint>
+      <Integrity>aQeApfVoImu3VfXmAa3RIK9lR0yPLgd2TW8QvbWG6xE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_deprecate.scss'))</OriginalItemSpec>
@@ -1488,8 +2262,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>knmte8oahp</Fingerprint>
-      <Integrity>EPoBo36UgrGw4ouOv0VgPJ+9Lgp8W4QtnjBd60zIndc=</Integrity>
+      <Fingerprint>wmnna9mwc7</Fingerprint>
+      <Integrity>mLqzael7iGuYVnqeY2/hIYKN96tZw5Uchvuqjt35KMY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_forms.scss'))</OriginalItemSpec>
@@ -1506,8 +2280,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pf8zvd089v</Fingerprint>
-      <Integrity>ixcLsmSUVCGIKOO0u8YxzEaHk5YNo6vS19DfsgKM8dU=</Integrity>
+      <Fingerprint>0c9dot3lnr</Fingerprint>
+      <Integrity>gHO/n935S5yHsaWl7oagVj7LDGd/C+Wxd8syi9XbpbI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_gradients.scss'))</OriginalItemSpec>
@@ -1524,8 +2298,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4irf5ltu4f</Fingerprint>
-      <Integrity>BN5kBXHemKi193C9dTvhYj17zIBTbKnAD2ZPCf+8V3A=</Integrity>
+      <Fingerprint>94mpvxhf1v</Fingerprint>
+      <Integrity>Oa8ubeDjXC4IvKhMF2CeNroVssb5uNRGQ+FHmszJxkU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_grid.scss'))</OriginalItemSpec>
@@ -1542,8 +2316,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pcj5buxq3h</Fingerprint>
-      <Integrity>x1sIoaSr8rr7XsVff4MzoS4/6CXHl6oxFGxwcwQzR2s=</Integrity>
+      <Fingerprint>e59ppc7xxn</Fingerprint>
+      <Integrity>khNvFnacIswOP5nSbayUEDUkCaMdTkonQGKiV0UoDkk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_image.scss'))</OriginalItemSpec>
@@ -1560,8 +2334,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yri95aj36t</Fingerprint>
-      <Integrity>TkTEvIHkDm8SkbtAssiAZeOgW0H4W32/zFsZp9UAOGQ=</Integrity>
+      <Fingerprint>zlxry3xi6n</Fingerprint>
+      <Integrity>GT8xPVtDXQXWl0Ay7TOouMjfmjWBC9a7O1i9Ytbcik0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_list-group.scss'))</OriginalItemSpec>
@@ -1578,8 +2352,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>da338r3kx6</Fingerprint>
-      <Integrity>ZbcBJtaGzE1FZihA4MeVhvoDnKp/gFnrE4FZDrLBus8=</Integrity>
+      <Fingerprint>4ijbztgbhx</Fingerprint>
+      <Integrity>hHF/vH/EHOK6Bst1Qu+/XOymICLzLN1Izqg5wVjjFiQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_lists.scss'))</OriginalItemSpec>
@@ -1596,8 +2370,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sxeu8ikv39</Fingerprint>
-      <Integrity>IDcwZxcOXUNMlGs16UtYrDUQ5CHd3N9dWRRzl7JDrdw=</Integrity>
+      <Fingerprint>qtz69rhhlc</Fingerprint>
+      <Integrity>IsBtAalMexyn7lgbhrdQimkESEQcnDGxvC3T8LNRo4M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_pagination.scss'))</OriginalItemSpec>
@@ -1614,8 +2388,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fg1nsjoj83</Fingerprint>
-      <Integrity>H28UtP8gqll7LH5fqHEyqqlROsPeKIzR7MaT2qjp/q4=</Integrity>
+      <Fingerprint>g5pojxzzk3</Fingerprint>
+      <Integrity>VJy5tTUgw0pwe/xU8wv4UIwKm8uX9j++t6EjqvtuRQQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_reset-text.scss'))</OriginalItemSpec>
@@ -1632,8 +2406,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3r5q61cdl2</Fingerprint>
-      <Integrity>nwniJt31zGMsuK+jSQhCZrVpjGTKcxrYtlPh9LdK7SQ=</Integrity>
+      <Fingerprint>5to3v0ne9o</Fingerprint>
+      <Integrity>p/Cn0vmQTkm3CWm2LYIAdC+FQlKZ77NOLnUdNaQTKs4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_resize.scss'))</OriginalItemSpec>
@@ -1650,8 +2424,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dp16tn779p</Fingerprint>
-      <Integrity>34gVRhZjwACqPrrfFRXWQ1mUFoGgD2yb/3JnzHAcwPU=</Integrity>
+      <Fingerprint>dpromytly5</Fingerprint>
+      <Integrity>QVAlE/XT4p82zJ0JBvIcMM2N1bugrUPEKmE/+MrfrdQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_table-variants.scss'))</OriginalItemSpec>
@@ -1668,8 +2442,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h3bypuwz7g</Fingerprint>
-      <Integrity>rR2kTNbQv3kFSOiwxIZ5nQjYH4zVUXQdgIsIo8LMAXg=</Integrity>
+      <Fingerprint>0ufzo3eldz</Fingerprint>
+      <Integrity>6F6n5gJaigYf5lsncGvhsf12/DFkxMkdZyf5GgBVrhw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_text-truncate.scss'))</OriginalItemSpec>
@@ -1686,8 +2460,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iqup5y7i4b</Fingerprint>
-      <Integrity>JruZ24+CnW25z5sLoWzlLrBCX14FOFGo9lRYD7WB7A0=</Integrity>
+      <Fingerprint>hjt0shj0oe</Fingerprint>
+      <Integrity>jUUxBldKvwI0TPCdrBzA8QIsfafCZ9Q+Sh2o19sYqkQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_transition.scss'))</OriginalItemSpec>
@@ -1704,8 +2478,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v65g9yrctg</Fingerprint>
-      <Integrity>R5/K1XXe5jgSsA8DZeJwyjxwKxyt9S8qoRvlYRb8bx0=</Integrity>
+      <Fingerprint>5nhoq0e1lq</Fingerprint>
+      <Integrity>Uel5DJcTMjIOzRc2ZOr5dn3x1FhaX64lCIXLxKOhn48=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_utilities.scss'))</OriginalItemSpec>
@@ -1722,8 +2496,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r7iutp0l6i</Fingerprint>
-      <Integrity>tzjwwij3dbId8xahnQjGcPrypP+MlFyxItoErfHqf4g=</Integrity>
+      <Fingerprint>vgbal6d0sm</Fingerprint>
+      <Integrity>jzVJFX4aDExcCKp5by1+FiW1usjt4M1I/QkLDbDNAbU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\mixins\_visually-hidden.scss'))</OriginalItemSpec>
@@ -1740,8 +2514,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mayif29mnj</Fingerprint>
-      <Integrity>HkXHAAjYfH8FsjGvEQS0wQBSOMUr6z5fsuc3mi2VznI=</Integrity>
+      <Fingerprint>xmez0gzoln</Fingerprint>
+      <Integrity>J1u2wMqzSJbTzd0+7iuJfJaklC1YIWRtuZssLZJSpJw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\utilities\_api.scss'))</OriginalItemSpec>
@@ -1758,8 +2532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6nut3pzn5d</Fingerprint>
-      <Integrity>nugTddld9zXpl2h5Zgh+0zahj9p1C3jOUjoeVjRuciU=</Integrity>
+      <Fingerprint>6owv9td8cf</Fingerprint>
+      <Integrity>JsQPrGMGFQNZ+LCv25Rv/rWHI/fX1koYbas4W9dW2DQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\vendor\_rfs.scss'))</OriginalItemSpec>
@@ -1776,8 +2550,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b8gnuivmkk</Fingerprint>
-      <Integrity>64cRBcGrHkQkcMheB/T4t+f6mvfG8hmUe3BtBJvi8mI=</Integrity>
+      <Fingerprint>ixo84kl2kw</Fingerprint>
+      <Integrity>NlS+4S0/GXx+DDgFS259LZrCGjUZFZxBjLYY6Md/ZVE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_accordion.scss'))</OriginalItemSpec>
@@ -1794,8 +2568,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nbnz903bvz</Fingerprint>
-      <Integrity>0/mEckNhK2o/TTMSzC8o7hguVITb9RqsW932mV2HS7U=</Integrity>
+      <Fingerprint>0v8kchpvyp</Fingerprint>
+      <Integrity>3Cl/x0tBd+YWCTzPJnjhzzzxWBUTdj8yq5WV80VLD94=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_alert.scss'))</OriginalItemSpec>
@@ -1812,8 +2586,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x6rlpa5uw5</Fingerprint>
-      <Integrity>6W0FGDImRRolMBZ8roPSxzAZytRerq5rZZmij7K0QXI=</Integrity>
+      <Fingerprint>fa16vh6s5e</Fingerprint>
+      <Integrity>+fClyOlOMCKM7ZUQAygqZbvXoFgJxOmwcNciL1Zq07c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_badge.scss'))</OriginalItemSpec>
@@ -1830,8 +2604,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b7eht4ly3f</Fingerprint>
-      <Integrity>J//dL7QpVH9SVIElSWfKF5NBHHFSJ6RSnypbf9oDd1c=</Integrity>
+      <Fingerprint>9jpsw8zpzq</Fingerprint>
+      <Integrity>RSC8VVhn6mgSv2Qd9cFI4lEVVf38fYKn9wQmv9a9VZ4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_breadcrumb.scss'))</OriginalItemSpec>
@@ -1848,8 +2622,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vyx6qsar51</Fingerprint>
-      <Integrity>iWRmAS440oDkepHY3fBKkiLoZWFhHeKMIO9Wgj7qE7Q=</Integrity>
+      <Fingerprint>sesnijde8f</Fingerprint>
+      <Integrity>bEJoDOB9olKPinb68ss8+xOxnsHJuMOZeztizQZX5LE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_button-group.scss'))</OriginalItemSpec>
@@ -1866,8 +2640,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wngscr0hvg</Fingerprint>
-      <Integrity>XFs4qVbkObBqIvUJsL2CkZ6utlWNxzcbt189q8nX0kk=</Integrity>
+      <Fingerprint>n5hhy6h6sg</Fingerprint>
+      <Integrity>GzsF1Dc6pmRznXha7QfNbtxuXrPo3pkZWiyUtK1IUf8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_buttons.scss'))</OriginalItemSpec>
@@ -1884,8 +2658,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cr5h3dbxn1</Fingerprint>
-      <Integrity>mKHFDIU4cIuwy0pCDM3SSO3KJnS7Wg26PNv/dFU+9MA=</Integrity>
+      <Fingerprint>mtq75dcg06</Fingerprint>
+      <Integrity>irzA+PGFpgRWTmbQBQmbIueyJyye8c7eeCbtOJH1f4s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_card.scss'))</OriginalItemSpec>
@@ -1902,8 +2676,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1txgu6ux6m</Fingerprint>
-      <Integrity>JeVEWmut1ugwnuhpf6GYcLSXy/iKT2pbKWQBCw6du3E=</Integrity>
+      <Fingerprint>pq6pvf2c5i</Fingerprint>
+      <Integrity>n9a9OLjuY/K5UQDFtZgbfmC9KzfDGUg+MLitTytXdMo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_carousel.scss'))</OriginalItemSpec>
@@ -1920,8 +2694,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qofenk7qyz</Fingerprint>
-      <Integrity>6n0m6/SW5MtR34yCBfV+7GO+jPKWykC6XJMeB7t4djc=</Integrity>
+      <Fingerprint>od4n5dce71</Fingerprint>
+      <Integrity>7C6if7AQUEFz9jZalAYpz72byYCzU/OCtQ1KZLpEcBM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_close.scss'))</OriginalItemSpec>
@@ -1938,8 +2712,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>j67qgs5oce</Fingerprint>
-      <Integrity>JQl05Z+i3fW4c+EhBtVhPmosgSjZLzdNz5rETSFBoMU=</Integrity>
+      <Fingerprint>blj7ujidut</Fingerprint>
+      <Integrity>78i6mg5dW9hm3TGKHnH9Bo1nzft/Cx7+oEdBxO1tVGc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_containers.scss'))</OriginalItemSpec>
@@ -1956,8 +2730,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3qzvw2rcuk</Fingerprint>
-      <Integrity>ZSHg5iUWLDbwYZprRKSWOTmseuI3MKZ0WSrUQSSZAno=</Integrity>
+      <Fingerprint>x3warkqnb6</Fingerprint>
+      <Integrity>DewCij4OoIVM9pUytwIIcYfAMj8NGblzha0McN0kSB4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_dropdown.scss'))</OriginalItemSpec>
@@ -1974,8 +2748,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ykl3pr2hef</Fingerprint>
-      <Integrity>AvUsGh+Z9V0R0LCjBVGPCmUnEoCHAZllo0gtrgFcrkg=</Integrity>
+      <Fingerprint>7p93x0xz3s</Fingerprint>
+      <Integrity>JRuJTT5voTi7uiha0l+fhV61TQBsUEPO5HYx+l18zKY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_forms.scss'))</OriginalItemSpec>
@@ -1992,8 +2766,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m24qzd6csg</Fingerprint>
-      <Integrity>4rEwLRAmuhScInpNASR/OyAMEPAhHtEz1S0JCgIdBWQ=</Integrity>
+      <Fingerprint>mteo5h9jo3</Fingerprint>
+      <Integrity>CrqwGPBYfutu6S5x4BeJVH2sF9pgYeVZ9lwAoYHoiZQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_functions.scss'))</OriginalItemSpec>
@@ -2010,8 +2784,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>987xglexlw</Fingerprint>
-      <Integrity>J7lAh+brKn3+KtC5GlIiIq+XYwd+pObpnG/g+YqGtNw=</Integrity>
+      <Fingerprint>laj1utlbff</Fingerprint>
+      <Integrity>E2YlOC9y6TWuRw0F74zI8/TrEJSdKjdqBKO8hqFMaV0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_grid.scss'))</OriginalItemSpec>
@@ -2028,8 +2802,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>obij0b6nw2</Fingerprint>
-      <Integrity>hA+dFAYHd/01bQ91rhtK0yowUDnncRJcM31kb0/w5b8=</Integrity>
+      <Fingerprint>7eqic3h4ls</Fingerprint>
+      <Integrity>H96+hj9rtgMRHNnaxu7NynFmgzeIxQuKnC3iHhU+0Ik=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_helpers.scss'))</OriginalItemSpec>
@@ -2046,8 +2820,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>d3ms6wft24</Fingerprint>
-      <Integrity>JyvseLe8A93FtxPzOEPqKtiElB31vaA8SunDmWeN8J0=</Integrity>
+      <Fingerprint>o3pe9l1ktc</Fingerprint>
+      <Integrity>lKPZa/cC+owcR0tmr9gddy1LAZiK1IQ5Z1CYqZnVdwA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_images.scss'))</OriginalItemSpec>
@@ -2064,8 +2838,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a6mxlh0au7</Fingerprint>
-      <Integrity>godfHc4Iam042M3kpoXMWzie2KhdHbymsPrnUpHBzJ8=</Integrity>
+      <Fingerprint>6cxo3kc7aj</Fingerprint>
+      <Integrity>Og4eQt6jAF6e10Gn4005Rz5gt3NwWX/OZss14Q9Rttc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_list-group.scss'))</OriginalItemSpec>
@@ -2082,8 +2856,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r62scq8uxh</Fingerprint>
-      <Integrity>Ey4ltFp8iVROLtsCDlewEyOuXeR9CR5g7Qdca4seJGM=</Integrity>
+      <Fingerprint>9fo3brhk5i</Fingerprint>
+      <Integrity>mxqqgFhZaf7Y49807q3Rx7X0CtkvR94J1Syc8a4QRWI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_maps.scss'))</OriginalItemSpec>
@@ -2100,8 +2874,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>95i282xmh6</Fingerprint>
-      <Integrity>o1eo6Y9NkK/1uDDu+ZcwoTK3taplcEb/poNn19+Oh+4=</Integrity>
+      <Fingerprint>svlcurywp4</Fingerprint>
+      <Integrity>OLz1wDZvC1uBzgCUHy3JTLQqYq+HWQH8vdcJiBZ7hOQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_mixins.scss'))</OriginalItemSpec>
@@ -2118,8 +2892,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>cxk3369ydw</Fingerprint>
-      <Integrity>sFeob2eGXKVuE2OlkzkQ3MsJmZ4n7mAs0Ov+1u6pEbk=</Integrity>
+      <Fingerprint>zeokwm9dx0</Fingerprint>
+      <Integrity>ZT+h9uX0n6mUviIsn8bTCBQC9zcmP2ieqqYEAjQJJVQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_modal.scss'))</OriginalItemSpec>
@@ -2136,8 +2910,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0jtbin0uoc</Fingerprint>
-      <Integrity>xAcC6e58FyaUADy0bxAVIoC69um1tQW6r6LXWpCYZME=</Integrity>
+      <Fingerprint>sbmgrk20gp</Fingerprint>
+      <Integrity>CMCWGuVUml9Wb3c9iFps8csLee/Z1XNWILLFMlmV8wo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_nav.scss'))</OriginalItemSpec>
@@ -2154,8 +2928,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lw3mwi7nyh</Fingerprint>
-      <Integrity>u2qVxMA7b6naEF2VYgJ/Cvu+uV8xClVu/0KQY0YvLr8=</Integrity>
+      <Fingerprint>507x2htvg9</Fingerprint>
+      <Integrity>S6hNtjwhfyHJESATqNdW9oFrX1oq0RTHEH3t6DKu5qY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_navbar.scss'))</OriginalItemSpec>
@@ -2172,8 +2946,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4k79mc268m</Fingerprint>
-      <Integrity>fEvSu+hgkkipPgsmils/fJhCaznBKCL8+JcMv2Uaea0=</Integrity>
+      <Fingerprint>up2w7f3g9y</Fingerprint>
+      <Integrity>wggMKISLVMovsU3EhczfMHoFYcWDDPcwuYdl8tj14Ao=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_offcanvas.scss'))</OriginalItemSpec>
@@ -2190,8 +2964,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sxdqayvh7v</Fingerprint>
-      <Integrity>8PSq23m/GKq19wh4KJgQ4JCP4vL0ltfVW9AOkEj0DHk=</Integrity>
+      <Fingerprint>rg7vltfdxf</Fingerprint>
+      <Integrity>izDtATRxZzUudXMhMvxfu9/46zxILlvKxdCPkcrj81k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_pagination.scss'))</OriginalItemSpec>
@@ -2208,8 +2982,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>o2xpy64na3</Fingerprint>
-      <Integrity>sK2zq5Gk7FBiktiVXCf12WMGYI2eZm4jBgc9H7cVc/s=</Integrity>
+      <Fingerprint>a4edqd2h5l</Fingerprint>
+      <Integrity>upa3cEwxdLcp+O3vamjunsQ2QWeeOwE0FQnFtviENI0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_placeholders.scss'))</OriginalItemSpec>
@@ -2226,8 +3000,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hcqv3hd51t</Fingerprint>
-      <Integrity>35FXE4mCbcXIwmqtzj6QWPdMAAibj7XvNk2WVhSUYp8=</Integrity>
+      <Fingerprint>4gupnnk93v</Fingerprint>
+      <Integrity>nOZ+GPauTKmqT5qPXaXQNd6tz4/hZaxRzRZijb4H+qM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_popover.scss'))</OriginalItemSpec>
@@ -2244,8 +3018,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>deiiixk2gx</Fingerprint>
-      <Integrity>pWOH3YnAmHQpASMvMUcTbqISK3bmjo8hfEGUXmc1a2c=</Integrity>
+      <Fingerprint>13yl940rrw</Fingerprint>
+      <Integrity>zZicvLHBAlNFEeYzvNx4NTHx9p0Zs6qbwV6C5vvP2a4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_progress.scss'))</OriginalItemSpec>
@@ -2262,8 +3036,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eaq5hh8i6t</Fingerprint>
-      <Integrity>VqmPf/Oi4PMGZp0rgEBaP59+jIhXMFIvgcSUJ9kRq7w=</Integrity>
+      <Fingerprint>zp48hc0o1n</Fingerprint>
+      <Integrity>5ypcq+bqotN1OIeE0LZdO1lhcPYlWSt+ZUkgmQEKqQM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_reboot.scss'))</OriginalItemSpec>
@@ -2280,8 +3054,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xytgmoty2d</Fingerprint>
-      <Integrity>R35xHKV6cvrRw092okAwWIlhDI5hiuVFzgcUGm7qx1A=</Integrity>
+      <Fingerprint>1sacygihlf</Fingerprint>
+      <Integrity>kcMMve1I+T1fnRXjG4gM79r/4RXUkBplk09DRd29axI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_root.scss'))</OriginalItemSpec>
@@ -2298,8 +3072,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kigew1tjw4</Fingerprint>
-      <Integrity>5GDzB0gH27iJR+s3b612wpXq8tdXDv3TtbcAWS3Og+M=</Integrity>
+      <Fingerprint>qu5k79cin3</Fingerprint>
+      <Integrity>osUZg9PJPddNt6c3g241GnVllxiZELjfEw92kh8ny5E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_spinners.scss'))</OriginalItemSpec>
@@ -2316,8 +3090,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n5d409eu0t</Fingerprint>
-      <Integrity>mz/V+Mt0sfcaDeFROZL/OGUjzzJW3whkipRH7sZ5G7I=</Integrity>
+      <Fingerprint>jwl1tg3xgg</Fingerprint>
+      <Integrity>IxJWt3SSvJcFG780NfIfVS9GxTR3kUgKjS7KFoTPDnE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_tables.scss'))</OriginalItemSpec>
@@ -2334,8 +3108,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zzcun65pyl</Fingerprint>
-      <Integrity>T3xYbYlt7SJd7eQhSCRXofygx/803WJNGjtCtnDD3X0=</Integrity>
+      <Fingerprint>86lewdd0sz</Fingerprint>
+      <Integrity>sKYERISpkZtSzUWRKVTvvtXG48EoMAy+rQeogoP3saI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_toasts.scss'))</OriginalItemSpec>
@@ -2352,8 +3126,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>g0ggmc5zhg</Fingerprint>
-      <Integrity>8LSRQuYVv9nS8JSs3qkfHWHtDnZB+BJLBh+YBGGb8jA=</Integrity>
+      <Fingerprint>6zz65evkja</Fingerprint>
+      <Integrity>XvcKWw0kuLCwAotXeRGkzk/5csqoLAdmJMQu6sWHWtY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_tooltip.scss'))</OriginalItemSpec>
@@ -2370,8 +3144,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>l8q8128ww8</Fingerprint>
-      <Integrity>1Z/VGUCaOYFgxvB4DY/2hQ7P5lZE21ds/fxc/P1u8OY=</Integrity>
+      <Fingerprint>7xz1la1irp</Fingerprint>
+      <Integrity>5WYb4Udq9gyeRTdQeA+GhBxonc8inegCIwB8PK2hSMk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_transitions.scss'))</OriginalItemSpec>
@@ -2388,8 +3162,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9qslzchb1q</Fingerprint>
-      <Integrity>sQf2TI6FeYooyCr0YbPx+VNIbvvAI2LcMJglw/Nbgy8=</Integrity>
+      <Fingerprint>cl6w1pjdxd</Fingerprint>
+      <Integrity>oAEJrZE7WzfE/pQyhxFtIbT9kCvjS76AS2jO7WOVPyA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_type.scss'))</OriginalItemSpec>
@@ -2406,8 +3180,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hw7zj2uqqn</Fingerprint>
-      <Integrity>wa0xjTU9pBp1j4UhD0R57jlBcSpWy02WPhpfmIqIZVE=</Integrity>
+      <Fingerprint>2ih3go8uey</Fingerprint>
+      <Integrity>Wuv1svtJhQV5bFofvDCQVey4GqdnB5fmqvyXxvtEPls=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_utilities.scss'))</OriginalItemSpec>
@@ -2424,8 +3198,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8w9j5oj1wi</Fingerprint>
-      <Integrity>KFKuumMi9JihsR8SnosAGlFR50R3C+SvU0nQkp4KsUo=</Integrity>
+      <Fingerprint>ll8n916605</Fingerprint>
+      <Integrity>t0e6pR8j5KuSroZQhOUvC4jeZYeqMP/X7DVkKR3J3O4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_variables.scss'))</OriginalItemSpec>
@@ -2442,8 +3216,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>po0g6wxvdh</Fingerprint>
-      <Integrity>eX110+CZaO9sUQTuQbXB9vgo4/qee0PcdkGTexj9Jck=</Integrity>
+      <Fingerprint>8u13ddtuje</Fingerprint>
+      <Integrity>8AKr+LPojbPC3TtKUAwaDzYlPI8Hz7AOOJOLZy9KWAM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\twitter-bootstrap\scss\_variables-dark.scss'))</OriginalItemSpec>

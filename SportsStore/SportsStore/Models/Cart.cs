@@ -21,7 +21,11 @@
         }
         public virtual decimal ComputeTotalValue()=>_lineCollection.Sum(e=>e.Product.Price *  e.Quantity);
         public virtual void Clear()=>_lineCollection.Clear();
-        public virtual IEnumerable<CartLine> Lines => _lineCollection;
+        public virtual IEnumerable<CartLine> Lines
+        {
+            get { return _lineCollection; }
+            set { _lineCollection = value.ToList(); }
+        }
     }
     public class CartLine
     {

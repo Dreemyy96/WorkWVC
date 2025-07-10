@@ -1,7 +1,5 @@
 using SportsStore.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Host.UseDefaultServiceProvider(options => options.ValidateScopes = false);
@@ -10,12 +8,22 @@ builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServe
 
 builder.Services.AddMvc(option=>option.EnableEndpointRouting = false);
 builder.Services.AddTransient<IProductRepository, EFProductRepository>();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<Cart>(sp=>SessionCart.GetCart(sp));
+builder.Services.AddTransient<IOrderRepository, EFOrderRepository>();
+
 
 builder.Services.AddMemoryCache();
-builder.Services.AddSession();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(20);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 app.UseDeveloperExceptionPage();
+app.UseSession();
 app.UseStatusCodePages();
 app.UseStaticFiles();
 

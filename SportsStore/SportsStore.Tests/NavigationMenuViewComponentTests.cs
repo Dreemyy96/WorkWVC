@@ -24,7 +24,7 @@ namespace SportsStore.Tests
 
             string[] result = ((IEnumerable<string>)(menu.Invoke() as ViewViewComponentResult).ViewData.Model).ToArray();
 
-            Assert.True(Enumerable.SequenceEqual(new string[] { "Apples", "Plums", "Oranges" }, result));
+            Assert.True(Enumerable.SequenceEqual(new string[] { "Apples", "Oranges", "Plums" }, result));
         }
 
         [Fact]

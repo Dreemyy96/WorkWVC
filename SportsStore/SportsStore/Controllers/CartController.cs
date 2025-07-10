@@ -7,11 +7,13 @@ namespace SportsStore.Controllers
 {
     public class CartController : Controller
     {
-        private IProductRepository repository;
+        private IProductRepository _repository;
+        private Cart _cart;
 
-        public CartController(IProductRepository repo)
+        public CartController(IProductRepository repo, Cart cart)
         {
-            repository = repo;
+            _repository = repo;
+            _cart = cart;
         }
 
         public IActionResult Index(string returnUrl)
@@ -19,20 +21,18 @@ namespace SportsStore.Controllers
             return View(new CartIndexViewModel
             {
                 ReturnUrl = returnUrl,
-                Cart = GetCart()
+                Cart = _cart
             });
         }
 
         public RedirectToActionResult AddToCart(int productId, string returnUrl)
         {
-            Product product = repository.Products
+            Product? product = _repository.Products
                 .FirstOrDefault(p => p.ProductId == productId);
 
             if (product != null)
             {
-                Cart cart = GetCart();
-                cart.AddItem(product, 1);
-                SaveCart(cart);
+                _cart.AddItem(product, 1);
             }
             return RedirectToAction("Index", new { returnUrl });
         }
@@ -40,28 +40,14 @@ namespace SportsStore.Controllers
         public RedirectToActionResult RemoveFromCart(int productId,
                 string returnUrl)
         {
-            Product product = repository.Products
+            Product? product = _repository.Products
                 .FirstOrDefault(p => p.ProductId == productId);
 
             if (product != null)
             {
-                Cart cart = GetCart();
-                cart.RemoveLine(product);
-                SaveCart(cart);
+                _cart.RemoveLine(product);
             }
             return RedirectToAction("Index", new { returnUrl });
-        }
-
-        private Cart GetCart()
-        {
-            var cart = HttpContext.Session.GetString("Cart");
-            Cart res = cart != null ? JsonSerializer.Deserialize<Cart>(cart) : null;
-            return res;
-        }
-
-        private void SaveCart(Cart cart)
-        {
-            HttpContext.Session.SetString("Cart", JsonSerializer.Serialize(cart));
         }
     }
 }
