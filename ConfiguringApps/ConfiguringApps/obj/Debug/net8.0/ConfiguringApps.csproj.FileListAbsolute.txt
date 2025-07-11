@@ -32,3 +32,33 @@ C:\TeachProjects\WorkWVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\refint
 C:\TeachProjects\WorkWVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.pdb
 C:\TeachProjects\WorkWVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.genruntimeconfig.cache
 C:\TeachProjects\WorkWVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ref\ConfiguringApps.dll
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.AssemblyInfoInputs.cache
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.AssemblyInfo.cs
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.RazorAssemblyInfo.cache
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.RazorAssemblyInfo.cs
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.sourcelink.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.dll
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\refint\ConfiguringApps.dll
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.pdb
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\appsettings.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\libman.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.staticwebassets.runtime.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.exe
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.deps.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.runtimeconfig.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.dll
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\bin\Debug\net8.0\ConfiguringApps.pdb
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets\msbuild.ConfiguringApps.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets\msbuild.build.ConfiguringApps.props
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConfiguringApps.props
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConfiguringApps.props
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\scopedcss\bundle\ConfiguringApps.styles.css
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ConfiguringApps.genruntimeconfig.cache
+C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\ConfiguringApps\ConfiguringApps\obj\Debug\net8.0\ref\ConfiguringApps.dll

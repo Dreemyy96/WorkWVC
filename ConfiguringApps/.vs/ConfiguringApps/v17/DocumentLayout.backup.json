@@ -1,25 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\",
+  "WorkspaceRootPath": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\configuringapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\configuringapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\configuringapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\infrastructure\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\infrastructure\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\infrastructure\\shortcircuitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\infrastructure\\shortcircuitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\infrastructure\\contentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\infrastructure\\contentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\infrastructure\\browsertypemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\infrastructure\\browsertypemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\infrastructure\\uptimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\infrastructure\\uptimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\configuringapps\\configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,32 +58,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\appsettings.json",
+              "RelativeDocumentMoniker": "ConfiguringApps\\appsettings.json",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\appsettings.json",
+              "RelativeToolTip": "ConfiguringApps\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T13:38:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Infrastructure\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ErrorMiddleware.cs",
+              "RelativeToolTip": "ConfiguringApps\\Infrastructure\\ErrorMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:47:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShortCircuitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ShortCircuitMiddleware.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Infrastructure\\ShortCircuitMiddleware.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ShortCircuitMiddleware.cs",
+              "RelativeToolTip": "ConfiguringApps\\Infrastructure\\ShortCircuitMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:32:26.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ContentMiddleware.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Infrastructure\\ContentMiddleware.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\ContentMiddleware.cs",
+              "RelativeToolTip": "ConfiguringApps\\Infrastructure\\ContentMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:16:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UptimeService.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\UptimeService.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Infrastructure\\UptimeService.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\UptimeService.cs",
+              "RelativeToolTip": "ConfiguringApps\\Infrastructure\\UptimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:55:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
               "RelativeDocumentMoniker": "ConfiguringApps\\Program.cs",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
               "RelativeToolTip": "ConfiguringApps\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T07:20:34.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConfiguringApps\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:08:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConfiguringApps",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConfiguringApps\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T10:25:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrowserTypeMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\BrowserTypeMiddleware.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Infrastructure\\BrowserTypeMiddleware.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Infrastructure\\BrowserTypeMiddleware.cs",
+              "RelativeToolTip": "ConfiguringApps\\Infrastructure\\BrowserTypeMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:39:24.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfiguringApps.csproj",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
               "RelativeDocumentMoniker": "ConfiguringApps\\ConfiguringApps.csproj",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
               "RelativeToolTip": "ConfiguringApps\\ConfiguringApps.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -64,42 +192,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ConfiguringApps\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "ConfiguringApps\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:16:37.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:16:37.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ConfiguringApps\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ConfiguringApps\\ConfiguringApps\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ConfiguringApps\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-10T15:09:45.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ConfiguringApps\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ConfiguringApps\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:08:06.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:09:45.694Z"
             }
           ]
         }
