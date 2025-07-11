@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\configuringapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\configuringapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|c:\\teachprojects\\workwvc\\configuringapps\\configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5A6BDBB-6DAE-4EAD-A51D-90C837FD390F}|ConfiguringApps\\ConfiguringApps.csproj|solutionrelative:configuringapps\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
+              "RelativeDocumentMoniker": "ConfiguringApps\\Program.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Program.cs",
+              "RelativeToolTip": "ConfiguringApps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:20:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfiguringApps",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
+              "RelativeDocumentMoniker": "ConfiguringApps\\ConfiguringApps.csproj",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\ConfiguringApps.csproj",
+              "RelativeToolTip": "ConfiguringApps\\ConfiguringApps.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T07:06:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ConfiguringApps\\Views\\_ViewImports.cshtml",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\ConfiguringApps\\ConfiguringApps\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ConfiguringApps\\Controllers\\HomeController.cs",
