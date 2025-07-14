@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\UrlsAndRoutes\UrlsAndRoutes
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/koval/OneDrive/Рабочий стол/WorkMVC/UrlsAndRoutes/UrlsAndRoutes/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/koval/OneDrive/Рабочий стол/WorkMVC/UrlsAndRoutes/UrlsAndRoutes/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/koval/OneDrive/Рабочий стол/WorkMVC/UrlsAndRoutes/UrlsAndRoutes/Views/Legacy/GetLegacyUrl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVnYWN5XEdldExlZ2FjeVVybC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/koval/OneDrive/Рабочий стол/WorkMVC/UrlsAndRoutes/UrlsAndRoutes/Views/Shared/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
