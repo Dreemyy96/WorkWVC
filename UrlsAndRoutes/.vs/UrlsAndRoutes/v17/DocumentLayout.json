@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,14 +31,6 @@
       "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\urlsandroutes\\urlsandroutes\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C83639-E49C-4B99-8AC6-6A74BB30D8EA}|UrlsAndRoutes\\UrlsAndRoutes.csproj|solutionrelative:urlsandroutes\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -45,8 +45,12 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Views\\_ViewImports.cshtml",
@@ -54,25 +58,23 @@
               "RelativeToolTip": "UrlsAndRoutes\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T15:33:31.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T15:33:31.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UrlsAndRoutes",
+              "DocumentIndex": 5,
+              "Title": "UrlsAndRoutes.csproj",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\UrlsAndRoutes.csproj",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
               "RelativeToolTip": "UrlsAndRoutes\\UrlsAndRoutes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-11T15:28:15.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T15:28:15.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Result.cshtml",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Views\\Shared\\Result.cshtml",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Views\\Shared\\Result.cshtml",
@@ -80,12 +82,11 @@
               "RelativeToolTip": "UrlsAndRoutes\\Views\\Shared\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T15:24:34.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T15:24:34.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Controllers\\AdminController.cs",
@@ -93,38 +94,33 @@
               "RelativeToolTip": "UrlsAndRoutes\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T15:22:52.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T15:22:52.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "UrlsAndRoutes\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T15:21:06.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UrlsAndRoutes\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T15:18:05.49Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "UrlsAndRoutes\\Models\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T14:56:41.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T14:56:41.648Z"
             },
             {
               "$type": "Document",
@@ -147,7 +142,7 @@
               "RelativeDocumentMoniker": "UrlsAndRoutes\\Program.cs",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\UrlsAndRoutes\\UrlsAndRoutes\\Program.cs",
               "RelativeToolTip": "UrlsAndRoutes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T14:53:45.166Z",
               "EditorCaption": ""
