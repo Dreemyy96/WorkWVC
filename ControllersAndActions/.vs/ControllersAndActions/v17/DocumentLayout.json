@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F313E17B-BF6D-4C4D-AD13-326C21800933}|ControllersAndActionsTests\\ControllersAndActionsTests.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactionstests\\actionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F313E17B-BF6D-4C4D-AD13-326C21800933}|ControllersAndActionsTests\\ControllersAndActionsTests.csproj|solutionrelative:controllersandactionstests\\actionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\example\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\views\\shared\\simpleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\shared\\simpleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\controllers\\pococontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\pococontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\controllers\\derivedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\derivedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\views\\shared\\dictionaryresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\shared\\dictionaryresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\controllersandactions\\controllersandactions\\views\\shared\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CFF33-2F2D-47B0-8C19-D38FDBAF3106}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\shared\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Example\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Example\\Index.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Example\\Index.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Example\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:52:39.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\ExampleController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:50:54.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActionsTests\\ActionsTests.cs",
+              "RelativeDocumentMoniker": "ControllersAndActionsTests\\ActionsTests.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActionsTests\\ActionsTests.cs",
+              "RelativeToolTip": "ControllersAndActionsTests\\ActionsTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:45:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:40:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DerivedController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\DerivedController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\DerivedController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\DerivedController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\DerivedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:09:52.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PocoController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\PocoController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\PocoController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Controllers\\PocoController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\PocoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:00:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\SimpleForm.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Shared\\SimpleForm.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\SimpleForm.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Shared\\SimpleForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T12:51:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DictionaryResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\DictionaryResult.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Shared\\DictionaryResult.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\DictionaryResult.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Shared\\DictionaryResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T12:48:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\Result.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Shared\\Result.cshtml",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\ControllersAndActions\\ControllersAndActions\\Views\\Shared\\Result.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Shared\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T12:43:10.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
