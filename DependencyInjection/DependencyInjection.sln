@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{59C6EF0E-E20B-4090-9A81-3137D0840CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Tests", "DependencyInjection.Tests\DependencyInjection.Tests.csproj", "{7F354008-1FA3-4398-9A96-11A8DFA02B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C6EF0E-E20B-4090-9A81-3137D0840CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C6EF0E-E20B-4090-9A81-3137D0840CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C6EF0E-E20B-4090-9A81-3137D0840CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C6EF0E-E20B-4090-9A81-3137D0840CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F354008-1FA3-4398-9A96-11A8DFA02B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F354008-1FA3-4398-9A96-11A8DFA02B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F354008-1FA3-4398-9A96-11A8DFA02B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F354008-1FA3-4398-9A96-11A8DFA02B73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560F6947-5189-464B-BE70-B2127E640C65}
+	EndGlobalSection
+EndGlobal
