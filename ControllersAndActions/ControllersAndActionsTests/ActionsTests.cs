@@ -30,5 +30,29 @@ namespace ControllersAndActionsTests
 			Assert.Equal("Hello", result.ViewData["Message"]);
 			Assert.IsType<System.DateTime>(result.ViewData["Data"]);
 		}
+		//[Fact]
+		//public void Redirection()
+		//{
+		//	ExampleController controller = new ExampleController();
+
+		//	//RedirectToRouteResult res = controller.Redirect();
+
+		//	//Assert.False(res.Permanent);
+		//	//Assert.Equal("Example", res.RouteValues["controller"]);
+		//	//Assert.Equal("Index", res.RouteValues["action"]);
+		//	//Assert.Equal("MyID", res.RouteValues["id"]);
+
+		//	RedirectToActionResult res = controller.Redirect();
+
+		//	Assert.False(res.Permanent);
+		//	Assert.Equal("Index", res.ActionName);
+		//}
+
+		public void JsonActionMethod()
+		{
+			ExampleController controller = new ExampleController();
+			JsonResult res = controller.Index() as JsonResult;
+			Assert.Equal(new[] { "Alice", "Bob", "Joe" }, res?.Value);
+		}
 	}
 }

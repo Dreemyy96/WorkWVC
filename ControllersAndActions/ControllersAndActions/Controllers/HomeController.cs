@@ -23,7 +23,19 @@ namespace ControllersAndActions.Controllers
 		//{
 		//	return new CustomHtmlResult { Content = $"{name} lives in {city}" };
 		//}
+		[HttpPost]
+		public IActionResult RecieveForm(string name, string city) 
+		{
+			TempData["name"] = name;
+			TempData["city"] = city;
+			return RedirectToAction(nameof(Data));
+        } 
 
-		public IActionResult RecieveForm(string name, string city) => View("Result", $"{name} lives in {city}");
+		public IActionResult Data()
+		{
+			string name = TempData["name"] as string;
+			string city = TempData["city"] as string;
+            return View("Result", $"{name} lives in {city}");
+        }
 	}
 }
