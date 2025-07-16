@@ -7,10 +7,13 @@ namespace Filters.Controllers
 	//[Profile]
 	//[ViewResultDetails]
 	//[RangeException]
-	[TypeFilter(typeof(DiagnosticsFilter))]
-	[TypeFilter(typeof(TimeFilter))]
+	//[TypeFilter(typeof(DiagnosticsFilter))]
+	//[ServiceFilter(typeof(TimeFilter))]
+	[Message("This is controller scoped filter", Order =10)]
     public class HomeController : Controller
 	{
+		[Message("This is the first action scoped filter", Order = 1)]
+		[Message("This is the second action scoped filter", Order =-1)]
 		public IActionResult Index()
 		{
 			return View("Message", "This is the Index action on the Home controller");	

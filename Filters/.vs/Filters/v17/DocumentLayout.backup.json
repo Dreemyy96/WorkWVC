@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\diagnosticsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\diagnosticsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\timefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\timefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\filterdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\filterdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\messageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\messageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,28 @@
       "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\controllers\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\controllers\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D18A6987-FA7E-4D21-8D80-310AF0DC6890}|Filters.Tests\\Filters.Tests.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters.tests\\filtertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D18A6987-FA7E-4D21-8D80-310AF0DC6890}|Filters.Tests\\Filters.Tests.csproj|solutionrelative:filters.tests\\filtertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\viewresultdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\viewresultdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\timefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\timefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\diagnosticsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\diagnosticsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\filterdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|solutionrelative:filters\\infrastructure\\filterdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EE79CC0-92A7-485D-A6CA-FA9DF083B333}|Filters\\Filters.csproj|c:\\users\\koval\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\workmvc\\filters\\filters\\infrastructure\\viewresultdetailsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,71 +79,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MessageAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\MessageAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\Infrastructure\\MessageAttribute.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\MessageAttribute.cs",
+              "RelativeToolTip": "Filters\\Infrastructure\\MessageAttribute.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:13:05.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\GlobalController.cs",
+              "RelativeDocumentMoniker": "Filters\\Controllers\\GlobalController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\GlobalController.cs",
+              "RelativeToolTip": "Filters\\Controllers\\GlobalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:11:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewResultDiagnostics.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDiagnostics.cs",
+              "RelativeDocumentMoniker": "Filters\\Infrastructure\\ViewResultDiagnostics.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDiagnostics.cs",
+              "RelativeToolTip": "Filters\\Infrastructure\\ViewResultDiagnostics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:50:27.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DiagnosticsFilter.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\DiagnosticsFilter.cs",
               "RelativeDocumentMoniker": "Filters\\Infrastructure\\DiagnosticsFilter.cs",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\DiagnosticsFilter.cs",
               "RelativeToolTip": "Filters\\Infrastructure\\DiagnosticsFilter.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:28:13.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:28:13.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TimeFilter.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\TimeFilter.cs",
               "RelativeDocumentMoniker": "Filters\\Infrastructure\\TimeFilter.cs",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\TimeFilter.cs",
               "RelativeToolTip": "Filters\\Infrastructure\\TimeFilter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:21:05.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T15:21:05.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FilterDiagnostics.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\FilterDiagnostics.cs",
-              "RelativeDocumentMoniker": "Filters\\Infrastructure\\FilterDiagnostics.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\FilterDiagnostics.cs",
-              "RelativeToolTip": "Filters\\Infrastructure\\FilterDiagnostics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Program.cs",
+              "RelativeDocumentMoniker": "Filters\\Program.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Program.cs",
+              "RelativeToolTip": "Filters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:16:26.755Z",
+              "WhenOpened": "2025-07-15T12:51:13.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Filters\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Filters\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:58:50.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RangeExceptionAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\RangeExceptionAttribute.cs",
-              "RelativeDocumentMoniker": "Filters\\Infrastructure\\RangeExceptionAttribute.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\RangeExceptionAttribute.cs",
-              "RelativeToolTip": "Filters\\Infrastructure\\RangeExceptionAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T15:01:42.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ViewResultDetailsAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
-              "RelativeDocumentMoniker": "Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
-              "RelativeToolTip": "Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:26:58.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ProfileAttribute.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ProfileAttribute.cs",
               "RelativeDocumentMoniker": "Filters\\Infrastructure\\ProfileAttribute.cs",
@@ -139,25 +172,59 @@
               "RelativeToolTip": "Filters\\Infrastructure\\ProfileAttribute.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:12:19.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T14:12:19.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Filters\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Filters\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FilterTests.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters.Tests\\FilterTests.cs",
+              "RelativeDocumentMoniker": "Filters.Tests\\FilterTests.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters.Tests\\FilterTests.cs",
+              "RelativeToolTip": "Filters.Tests\\FilterTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:58:50.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:58:11.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewResultDetailsAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
+              "RelativeToolTip": "Filters\\Infrastructure\\ViewResultDetailsAttribute.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:26:58.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "RangeExceptionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\RangeExceptionAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\Infrastructure\\RangeExceptionAttribute.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\RangeExceptionAttribute.cs",
+              "RelativeToolTip": "Filters\\Infrastructure\\RangeExceptionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:01:42.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilterDiagnostics.cs",
+              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\FilterDiagnostics.cs",
+              "RelativeDocumentMoniker": "Filters\\Infrastructure\\FilterDiagnostics.cs",
+              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\FilterDiagnostics.cs",
+              "RelativeToolTip": "Filters\\Infrastructure\\FilterDiagnostics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:16:26.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Message.cshtml",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Views\\Shared\\Message.cshtml",
               "RelativeDocumentMoniker": "Filters\\Views\\Shared\\Message.cshtml",
@@ -165,51 +232,23 @@
               "RelativeToolTip": "Filters\\Views\\Shared\\Message.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T13:00:04.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:00:04.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FilterTests.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters.Tests\\FilterTests.cs",
-              "RelativeDocumentMoniker": "Filters.Tests\\FilterTests.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters.Tests\\FilterTests.cs",
-              "RelativeToolTip": "Filters.Tests\\FilterTests.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:58:11.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Program.cs",
-              "RelativeDocumentMoniker": "Filters\\Program.cs",
-              "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Program.cs",
-              "RelativeToolTip": "Filters\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T12:51:13.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Filters",
+              "DocumentIndex": 13,
+              "Title": "Filters.csproj",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Filters.csproj",
               "RelativeDocumentMoniker": "Filters\\Filters.csproj",
               "ToolTip": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Filters.csproj",
               "RelativeToolTip": "Filters\\Filters.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-15T13:49:55.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:49:55.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HttpsOnlyAttribute.cs",
               "DocumentMoniker": "C:\\Users\\koval\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WorkMVC\\Filters\\Filters\\Infrastructure\\HttpsOnlyAttribute.cs",
               "RelativeDocumentMoniker": "Filters\\Infrastructure\\HttpsOnlyAttribute.cs",
@@ -217,8 +256,7 @@
               "RelativeToolTip": "Filters\\Infrastructure\\HttpsOnlyAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T13:50:54.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T13:50:54.296Z"
             }
           ]
         }
