@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Reservation>
+@{
+	Layout = "_Layout";
+}
+
+<form id="addform" asp-action="AddReservation" method="post">
+	<div class="mb-3">
+		<label for="ClientName">Name:</label>
+		<input class="form-control" name="ClientName" />
+	</div>
+	<div class="mb-3">
+		<label for="Location">Location:</label>
+		<input class="form-control" name="Location" />
+	</div>
+	<div class="text-center">
+		<button class="btn btn-sm btn-primary" type="submit">Add</button>
+	</div>
+</form>
+
+<table class="table table-bordered table-sm table-striped">
+	<thead><tr><th>ID</th><th>Client</th><th>Location</th></tr></thead>
+	<tbody>
+		@foreach (Reservation r in Model)
+		{
+			<tr>
+				<td>@r.ReservationId</td>
+				<td>@r.ClientName</td>
+				<td>@r.Location</td>
+			</tr>
+		}
+	</tbody>
+</table>
