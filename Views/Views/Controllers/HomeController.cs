@@ -6,9 +6,7 @@ namespace Views.Controllers
 	{
 		public IActionResult Index()
 		{
-			ViewBag.Message = "Hello world";
-			ViewBag.Time = DateTime.Now.ToString("HH:mm:ss");
-			return View("DebugData");
+			return View(new string[] { "Apple", "Orenge", "Pear" });
 		}
 		public IActionResult List() => View();
 	}
