@@ -1,0 +1,26 @@
+﻿@{
+	Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Razor</title>
+    <link rel="stylesheet" asp-href-include="lib/bootstrap/css/*.min.css" />
+    <script id="jsonData" type="application/json">@Json.Serialize(new string[]{"Apple", "Orange", "Pear"})</script>
+    <script asp-src-include="lib/jquery/*.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var list = $("#list")
+            JSON.parse($("#jsonData").text()).forEach(function(val){
+                console.Log("Val: " + val);
+                list.append($("<li>").text(val));
+            });
+        });  
+    </script>
+</head>
+<body class="m-1 p-1">
+    This is the List View
+    @* @Html.Partial("MyStronglyTypePartial", new string[]{"Apple", "Orange", "Pear"}); *@
+    <ul id="list"></ul>
+</body>
+</html>

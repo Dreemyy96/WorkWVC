@@ -24,3 +24,37 @@ C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\Views\Views\obj\Debug\ne
 C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\Views\Views\obj\Debug\net8.0\Views.pdb
 C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\Views\Views\obj\Debug\net8.0\Views.genruntimeconfig.cache
 C:\Users\koval\OneDrive\Рабочий стол\WorkMVC\Views\Views\obj\Debug\net8.0\ref\Views.dll
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\appsettings.Development.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\appsettings.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\libman.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.staticwebassets.runtime.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.staticwebassets.endpoints.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.exe
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.deps.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.runtimeconfig.json
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.dll
+C:\TeachProjects\WorkWVC\Views\Views\bin\Debug\net8.0\Views.pdb
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.AssemblyInfoInputs.cache
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.AssemblyInfo.cs
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.csproj.CoreCompileInputs.cache
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.MvcApplicationPartsAssemblyInfo.cache
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.RazorAssemblyInfo.cache
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.RazorAssemblyInfo.cs
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.sourcelink.json
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\scopedcss\bundle\Views.styles.css
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets.build.json
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets.development.json
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets\msbuild.Views.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets\msbuild.Views.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets\msbuild.build.Views.props
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Views.props
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Views.props
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.dll
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\refint\Views.dll
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.pdb
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\Views.genruntimeconfig.cache
+C:\TeachProjects\WorkWVC\Views\Views\obj\Debug\net8.0\ref\Views.dll
