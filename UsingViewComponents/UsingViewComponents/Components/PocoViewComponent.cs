@@ -2,10 +2,10 @@
 
 namespace UsingViewComponents.Components
 {
-    public class PocoViewComponents 
+    public class PocoViewComponent 
     {
         private readonly ICityRepository _repository;
-        public PocoViewComponents(ICityRepository rep)
+        public PocoViewComponent(ICityRepository rep)
         {
             _repository = rep;
         }

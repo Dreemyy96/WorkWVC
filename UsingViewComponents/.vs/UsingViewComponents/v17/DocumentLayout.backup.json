@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\components\\pagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\components\\pagesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\components\\citysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\components\\citysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\shared\\components\\pagesize\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\shared\\components\\pagesize\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA4D3E9-8CC8-4947-A2D3-39F8F248F608}|UsingViewComponents.Tests\\UsingViewComponents.Tests.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents.tests\\summaryviewcomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA4D3E9-8CC8-4947-A2D3-39F8F248F608}|UsingViewComponents.Tests\\UsingViewComponents.Tests.csproj|solutionrelative:usingviewcomponents.tests\\summaryviewcomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\components\\citysummary\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\components\\citysummary\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\components\\citysummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\components\\citysummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\models\\cityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\models\\cityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\components\\pocoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\components\\pocoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|solutionrelative:usingviewcomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1655BF0-318D-4844-8828-3E360C129D75}|UsingViewComponents\\UsingViewComponents.csproj|c:\\teachprojects\\workwvc\\usingviewcomponents\\usingviewcomponents\\models\\memorycityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +102,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\Components\\PageSize\\Default.cshtml",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Shared\\Components\\PageSize\\Default.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\Components\\PageSize\\Default.cshtml",
+              "RelativeToolTip": "UsingViewComponents\\Views\\Shared\\Components\\PageSize\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:27:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageSize.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\PageSize.cs",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Components\\PageSize.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\PageSize.cs",
+              "RelativeToolTip": "UsingViewComponents\\Components\\PageSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:23:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SummaryViewComponentTests.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents.Tests\\SummaryViewComponentTests.cs",
+              "RelativeDocumentMoniker": "UsingViewComponents.Tests\\SummaryViewComponentTests.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents.Tests\\SummaryViewComponentTests.cs",
+              "RelativeToolTip": "UsingViewComponents.Tests\\SummaryViewComponentTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:13:57.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityList.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Components\\CitySummary\\CityList.cshtml",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Home\\Components\\CitySummary\\CityList.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Components\\CitySummary\\CityList.cshtml",
+              "RelativeToolTip": "UsingViewComponents\\Views\\Home\\Components\\CitySummary\\CityList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T09:00:08.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Components\\CitySummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Home\\Components\\CitySummary\\Default.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Components\\CitySummary\\Default.cshtml",
+              "RelativeToolTip": "UsingViewComponents\\Views\\Home\\Components\\CitySummary\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T07:49:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityViewModel.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\CityViewModel.cs",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Models\\CityViewModel.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\CityViewModel.cs",
+              "RelativeToolTip": "UsingViewComponents\\Models\\CityViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:42:20.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CitySummary.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\CitySummary.cs",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Components\\CitySummary.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\CitySummary.cs",
+              "RelativeToolTip": "UsingViewComponents\\Components\\CitySummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:35:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Home\\Create.cshtml",
@@ -83,7 +206,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UsingViewComponents\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T16:11:48.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T16:11:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PocoViewComponent.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\PocoViewComponent.cs",
+              "RelativeDocumentMoniker": "UsingViewComponents\\Components\\PocoViewComponent.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Components\\PocoViewComponent.cs",
+              "RelativeToolTip": "UsingViewComponents\\Components\\PocoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:42:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Home\\Index.cshtml",
@@ -96,46 +258,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "UsingViewComponents\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T16:11:48.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UsingViewComponents\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T16:11:29.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UsingViewComponents\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T16:08:29.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "MemoryCityRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\MemoryCityRepository.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\MemoryCityRepository.cs",
@@ -148,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ICityRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\ICityRepository.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\ICityRepository.cs",
@@ -161,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\City.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\City.cs",
@@ -174,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "MemoryProductRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\MemoryProductRepository.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\MemoryProductRepository.cs",
@@ -187,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Program.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Program.cs",
@@ -200,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\IProductRepository.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\IProductRepository.cs",
@@ -213,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\UsingViewComponents\\UsingViewComponents\\Models\\Product.cs",
               "RelativeDocumentMoniker": "UsingViewComponents\\Models\\Product.cs",

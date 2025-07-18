@@ -11,10 +11,12 @@
         <div class="row text-white">
             <div class="col-7"><h1>Products</h1></div>
             <div class="col-5">
-                <div class="bg-info text-center m-1 p-1">@await Component.InvokeAsync("Poco")</div>
+                @* @await Component.InvokeAsync(nameof(CitySummary), new {showList = true}) *@
+                @await Component.InvokeAsync("ComboComponent")
             </div>
         </div>
     </div>
     <div class="m-1 p-1">@RenderBody()</div>
+    @await Component.InvokeAsync(nameof(PageSize));
 </body>
 </html>
