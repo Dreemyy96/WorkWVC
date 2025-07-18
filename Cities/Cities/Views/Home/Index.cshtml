@@ -1,0 +1,26 @@
+﻿@model IEnumerable<City>
+
+@{
+	Layout = "_Layout";
+}
+
+<table class="table table-sm table-bordered">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Country</th>
+			<th>Population</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var city in Model)
+		{
+			<tr>
+				<td wrap>@city.Name</td>
+				<td>@city.Country</td>
+				<td class="text-end">@city.Population?.ToString("#, ###")</td>
+			</tr>
+		}
+	</tbody>
+</table>
+<a href="/Home/Create" class="btn btn-primary">Create</a>

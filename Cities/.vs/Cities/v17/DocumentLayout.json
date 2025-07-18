@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TeachProjects\\WorkWVC\\Cities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\selectivetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\selectivetaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\coordinatingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\coordinatingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\labelandinputtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\labelandinputtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\formtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\formtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\tablecelltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\tablecelltaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8558CFA8-B792-44E7-9EA6-A29E10DD2DB8}|Cities.Tests\\Cities.Tests.csproj|c:\\teachprojects\\workwvc\\cities\\cities.tests\\taghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8558CFA8-B792-44E7-9EA6-A29E10DD2DB8}|Cities.Tests\\Cities.Tests.csproj|solutionrelative:cities.tests\\taghelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\buttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\buttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\contentwrappertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\contentwrappertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\infrastructure\\taghelpers\\formbuttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\infrastructure\\taghelpers\\formbuttontaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\models\\memoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\models\\memoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|c:\\teachprojects\\workwvc\\cities\\cities\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B6DE3D-7557-4529-B101-EA50AAE85DA5}|Cities\\Cities.csproj|solutionrelative:cities\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectiveTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\SelectiveTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\SelectiveTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\SelectiveTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\SelectiveTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:01:11.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoordinatingTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\CoordinatingTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\CoordinatingTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\CoordinatingTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\CoordinatingTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:33:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\FormTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\FormTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\FormTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\FormTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:25:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableCellTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\TableCellTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\TableCellTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\TableCellTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\TableCellTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:19:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContentWrapperTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\ContentWrapperTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\ContentWrapperTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\ContentWrapperTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\ContentWrapperTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:03:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TagHelperTests.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities.Tests\\TagHelperTests.cs",
+              "RelativeDocumentMoniker": "Cities.Tests\\TagHelperTests.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities.Tests\\TagHelperTests.cs",
+              "RelativeToolTip": "Cities.Tests\\TagHelperTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:55:58.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ButtonTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\ButtonTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\ButtonTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\ButtonTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\ButtonTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:40:04.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cities\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Cities\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T11:23:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cities\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cities\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T11:13:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabelAndInputTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\LabelAndInputTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\LabelAndInputTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\LabelAndInputTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\LabelAndInputTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:49:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormButtonTagHelper.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\FormButtonTagHelper.cs",
+              "RelativeDocumentMoniker": "Cities\\Infrastructure\\TagHelpers\\FormButtonTagHelper.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Infrastructure\\TagHelpers\\FormButtonTagHelper.cs",
+              "RelativeToolTip": "Cities\\Infrastructure\\TagHelpers\\FormButtonTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:49:34.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cities\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cities\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T11:15:03.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Program.cs",
+              "RelativeDocumentMoniker": "Cities\\Program.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Program.cs",
+              "RelativeToolTip": "Cities\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:02:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cities\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cities\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T11:51:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cities\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cities\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:10:57.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemoryRepository.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\MemoryRepository.cs",
+              "RelativeDocumentMoniker": "Cities\\Models\\MemoryRepository.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\MemoryRepository.cs",
+              "RelativeToolTip": "Cities\\Models\\MemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:08:00.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Cities\\Models\\IRepository.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\IRepository.cs",
+              "RelativeToolTip": "Cities\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:07:20.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Cities\\Models\\City.cs",
+              "ToolTip": "C:\\TeachProjects\\WorkWVC\\Cities\\Cities\\Models\\City.cs",
+              "RelativeToolTip": "Cities\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T11:01:58.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
